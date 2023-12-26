@@ -1,7 +1,5 @@
 /*
 Heist Info Template for Future Heists
-
-,
 	{
 		"name": "",
 		"levelSet": "",
@@ -12,7 +10,7 @@ Heist Info Template for Future Heists
 */
 fetch('heists.json')
 	.then(response => response.json())
-	.then(json => console.log(json));
+	.then(heists => console.log(heists));
 
 let oldNumber = -1;
 
