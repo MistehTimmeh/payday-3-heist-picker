@@ -1,5 +1,7 @@
 /*
 Heist Info Template for Future Heists
+
+,
 	{
 		"name": "",
 		"levelSet": "",
@@ -8,17 +10,94 @@ Heist Info Template for Future Heists
 		"recommendedLoudFavours": "",
 	}
 */
-
-async function fuckThisNonsense() {
-	let url = 'https://github.com/MistehTimmeh/payday-3-heist-picker/blob/main/heists.json';
-	let obj = await (await fetch(url)).json();
-	console.log(obj);
-}
+fetch('heists.json')
+	.then(response => response.json())
+	.then(heists => console.log(heists));
 
 let oldNumber = -1;
+const heists = [
+	{
+		"name": "No Rest for the Wicked",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Additional Loot Secure Point, Keycard Location.",
+		"recommendedLoudFavours": "Armor Bag, Additional Thermite, Van Escape.",
+	},
+	{
+		"name": "Road Rage",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Loud",
+		"recommendedStealthFavours": "Not applicable.",
+		"recommendedLoudFavours": "Armor Bag, Unlocked Lockboxes, Additional Secure Point.",
+	},
+	{
+		"name": "Dirty Ice",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Employee Entrance, Distracted Manager.",
+		"recommendedLoudFavours": "Armor Bag, Rooftop Chopper.",
+	},
+	{
+		"name": "Rock the Cradle",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Vault Code Access, Additional Keycard.",
+		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Crypto Wallet.",
+	},
+	{
+		"name": "Under the Surphaze",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Dumpster Secure Point, Zipline Bag, Additional QR Key.",
+		"recommendedLoudFavours": "Armor Bag, Faster Chopper.",
+	},
+	{
+		"name": "Golde & Sharke",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Elevator Access, Café Celebration, Teller Door.",
+		"recommendedLoudFavours": "Armor Bag, Thermal Lance Parts, Zip Bag.",
+	},
+	{
+		"name": "99 Boxes",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Prototype Bags, Opened Container.",
+		"recommendedLoudFavours": "Armor Bag, Thermite Drop, Opened Container, Prototype Bags.",
+	},
+	{
+		"name": "Touch the Sky",
+		"levelSet": "Core Heists",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Vomiting Agent, Hidden Thermite.",
+		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Hidden Thermite.",
+	},
+	{
+		"name": "Turbid Station",
+		"levelSet": "Legacy Heists",
+		"gameplayStyle": "Stealth",
+		"recommendedStealthFavours": "Zipline Bag, Fewer Drones, Longer Remote Door Timer. More Lures.",
+		"recommendedLoudFavours": "Not applicable.",
+	},
+	{
+		"name": "Cook Off",
+		"levelSet": "Legacy Heists",
+		"gameplayStyle": "Loud",
+		"recommendedStealthFavours": "Not applicable.",
+		"recommendedLoudFavours": "Armor Bag, Permanent Escape Van, Faster Supply Drop, Longer Purity Window.",
+	},
+	{
+		"name": "Syntax Error",
+		"levelSet": "The Bad Apple",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Zipline Bag, Scrambled Drones, QR Code Access, Security Laser Glitch.",
+		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Faster Escape Helicopter.",
+	}
+];
 
 
-/*function regen(heistNumber) {
+
+function regen(heistNumber) {
 	let parent = document.getElementById('fade-box');
 	
 	let randomBox = document.createElement('div');
@@ -103,12 +182,12 @@ function generateRandomHeist() {
 	}
 	
 	regen(heistNumber);
-}*/
+}
 
 function load()
 {
 	document.getElementById('new-heist-button').addEventListener("click", generateRandomHeist);
-	//generateRandomHeist();
+	generateRandomHeist();
 }
-fuckThisNonsense();
+
 document.addEventListener("DOMContentLoaded", load); 
