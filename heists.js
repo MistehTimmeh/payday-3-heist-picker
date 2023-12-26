@@ -8,9 +8,13 @@ Heist Info Template for Future Heists
 		"recommendedLoudFavours": "",
 	}
 */
-fetch('heists.json')
-	.then(response => response.json())
-	.then(heists => console.log(heists));
+
+function gettingHeists() {
+	fetch('./heists.json')
+	.then((res) => {
+	return res.json();
+	});
+}
 
 let oldNumber = -1;
 
@@ -93,6 +97,7 @@ function regen(heistNumber) {
 }
 
 function generateRandomHeist() {
+	let heists = gettingHeists();
 	let heistNumber = Math.floor(Math.random() * (heists.length - 1));
 	
 	while(oldNumber == heistNumber) {
