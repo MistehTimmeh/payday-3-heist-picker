@@ -102,7 +102,7 @@ function generateRandomHeist() {
 		heistNumber = Math.floor(Math.random() * (heists.length - 1));
 	}
 	
-	regen(heistNumber);
+	//regen(heistNumber);
 }
 
 function load()
