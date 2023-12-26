@@ -9,11 +9,10 @@ Heist Info Template for Future Heists
 	}
 */
 
-function gettingHeists() {
-	fetch('./heists.json')
-	.then((res) => {
-	return res.json();
-	});
+async function fuckThisNonsense() {
+	let url = 'https://github.com/MistehTimmeh/payday-3-heist-picker/blob/main/heists.json';
+	let obj = await (await fetch(url)).json();
+	console.log(obj);
 }
 
 let oldNumber = -1;
@@ -97,7 +96,6 @@ function regen(heistNumber) {
 }
 
 function generateRandomHeist() {
-	let heists = gettingHeists();
 	let heistNumber = Math.floor(Math.random() * (heists.length - 1));
 	
 	while(oldNumber == heistNumber) {
@@ -112,5 +110,5 @@ function load()
 	document.getElementById('new-heist-button').addEventListener("click", generateRandomHeist);
 	generateRandomHeist();
 }
-
+fuckThisNonsense();
 document.addEventListener("DOMContentLoaded", load); 
