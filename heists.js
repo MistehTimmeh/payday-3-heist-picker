@@ -10,9 +10,6 @@ Heist Info Template for Future Heists
 		"recommendedLoudFavours": "",
 	}
 */
-fetch('heists.json')
-	.then(response => response.json())
-	.then(heists => console.log(heists));
 
 let oldNumber = -1;
 const heists = [
