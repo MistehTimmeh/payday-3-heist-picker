@@ -18,7 +18,7 @@ async function fuckThisNonsense() {
 let oldNumber = -1;
 
 
-function regen(heistNumber) {
+/*function regen(heistNumber) {
 	let parent = document.getElementById('fade-box');
 	
 	let randomBox = document.createElement('div');
@@ -103,7 +103,7 @@ function generateRandomHeist() {
 	}
 	
 	regen(heistNumber);
-}
+}*/
 
 function load()
 {
