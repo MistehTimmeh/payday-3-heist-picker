@@ -102,13 +102,13 @@ function generateRandomHeist() {
 		heistNumber = Math.floor(Math.random() * (heists.length - 1));
 	}
 	
-	//regen(heistNumber);
+	regen(heistNumber);
 }
 
 function load()
 {
 	document.getElementById('new-heist-button').addEventListener("click", generateRandomHeist);
-	generateRandomHeist();
+	//generateRandomHeist();
 }
 fuckThisNonsense();
 document.addEventListener("DOMContentLoaded", load); 
