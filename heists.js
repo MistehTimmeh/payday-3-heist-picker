@@ -71,15 +71,22 @@ const heists = [
 	},
 	{
 		"name": "Turbid Station",
-		"levelSet": "Legacy Heists",
+		"levelSet": "Side Hustles",
 		"gameplayStyle": "Stealth",
 		"recommendedStealthFavours": "Zipline Bag, Fewer Drones, Longer Remote Door Timer. More Lures.",
 		"recommendedLoudFavours": "Not applicable.",
 	},
 	{
 		"name": "Cook Off",
-		"levelSet": "Legacy Heists",
+		"levelSet": "Side Hustles",
 		"gameplayStyle": "Loud",
+		"recommendedStealthFavours": "Not applicable.",
+		"recommendedLoudFavours": "Armor Bag, Permanent Escape Van, Faster Supply Drop, Longer Purity Window.",
+	},
+	{
+		"name": "Diamond District",
+		"levelSet": "Side Hustles",
+		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Not applicable.",
 		"recommendedLoudFavours": "Armor Bag, Permanent Escape Van, Faster Supply Drop, Longer Purity Window.",
 	},
@@ -90,9 +97,28 @@ const heists = [
 		"recommendedStealthFavours": "Zipline Bag, Scrambled Drones, QR Code Access, Security Laser Glitch.",
 		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Faster Escape Helicopter.",
 	}
+	{
+		"name": "Boys in Blue",
+		"levelSet": "The Bad Apple",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Fake 911 Calls.",
+		"recommendedLoudFavours": "Mechanic Bribe ,Armor Bag.",
+	}
+	{
+		"name": "Houston Breakout",
+		"levelSet": "The Bad Apple",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Press Badges.",
+		"recommendedLoudFavours": "Armor Bag.",
+	}
+	{
+		"name": "Fear & Greed",
+		"levelSet": "The Bad Apple",
+		"gameplayStyle": "Stealth or Loud",
+		"recommendedStealthFavours": "Start inside the Exchange, Relocated Stockbrokers.",
+		"recommendedLoudFavours": "Shutter Control, Armor Bag.",
+	}
 ];
-
-
 
 function regen(heistNumber) {
 	let parent = document.getElementById('fade-box');
@@ -167,7 +193,6 @@ function regen(heistNumber) {
 	randomBox.appendChild(infoBoxFavourInfo);
 	
 	parent.appendChild(randomBox);
-	
 	
 }
 
