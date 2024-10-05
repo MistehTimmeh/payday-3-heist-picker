@@ -96,21 +96,21 @@ const heists = [
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Zipline Bag, Scrambled Drones, QR Code Access, Security Laser Glitch.",
 		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Faster Escape Helicopter.",
-	}
+	},
 	{
 		"name": "Boys in Blue",
 		"levelSet": "The Bad Apple",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Fake 911 Calls.",
 		"recommendedLoudFavours": "Mechanic Bribe ,Armor Bag.",
-	}
+	},
 	{
 		"name": "Houston Breakout",
 		"levelSet": "The Bad Apple",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Press Badges.",
 		"recommendedLoudFavours": "Armor Bag.",
-	}
+	},
 	{
 		"name": "Fear & Greed",
 		"levelSet": "The Bad Apple",
