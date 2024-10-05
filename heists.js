@@ -102,7 +102,7 @@ const heists = [
 		"levelSet": "The Bad Apple",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Fake 911 Calls.",
-		"recommendedLoudFavours": "Mechanic Bribe ,Armor Bag.",
+		"recommendedLoudFavours": "Mechanic Bribe, Armor Bag.",
 	},
 	{
 		"name": "Houston Breakout",
