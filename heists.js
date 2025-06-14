@@ -3,22 +3,6 @@
 
 let lang = navigator.language;
 let oldNumber = -1;
-let heists = [
-	{
-		"name": "Click button for new heist",
-		"levelSet": "Click button for new heist",
-		"gameplayStyle": "Click button for new heist",
-		"recommendedStealthFavours": "Click button for new heist",
-		"recommendedLoudFavours": "Click button for new heist"
-	},
-	{
-		"name": "Click button for new heist",
-		"levelSet": "Click button for new heist",
-		"gameplayStyle": "Click button for new heist",
-		"recommendedStealthFavours": "Click button for new heist",
-		"recommendedLoudFavours": "Click button for new heist"
-	}
-];
 
 if(lang.includes("de")) {
 	//Load german.json into heists variable
@@ -80,7 +64,7 @@ else {
 async function getJSON(url) {
     fetch(url)
 	.then(response => response.json())
-	.then(data => heists = data);
+	.then(data => let heists = data);
 }
 
 function regen(heistNumber) {
