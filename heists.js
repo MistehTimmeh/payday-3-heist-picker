@@ -3,22 +3,7 @@
 
 let lang = navigator.language;
 let oldNumber = -1;
-let heists = [
-	{
-		"name": "TEST",
-		"levelSet": "TEST",
-		"gameplayStyle": "TEST",
-		"recommendedStealthFavours": "TEST",
-		"recommendedLoudFavours": "TEST"
-	},
-	{
-		"name": "TEST2",
-		"levelSet": "TEST2",
-		"gameplayStyle": "TEST2",
-		"recommendedStealthFavours": "TEST2",
-		"recommendedLoudFavours": "TEST2"
-	}
-];
+let heists = [];
 
 if(lang.includes("de")) {
 	//Load german.json into heists variable
