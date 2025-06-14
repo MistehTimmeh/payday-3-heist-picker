@@ -22,42 +22,55 @@ let heists = [
 
 if(lang.includes("de")) {
 	//Load german.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/german.json");
 }
 else if(lang.includes("es-419")) {
 	//Load spanish_latam.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/spanish_latam.json");
 }
 else if(lang.includes("es")) {
 	//Load spanish_spain.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/spanish_spain.json");
 }
 else if(lang.includes("fr")) {
 	//Load french.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/french.json");
 }
 else if(lang.includes("it")) {
 	//Load italian.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/italian.json");
 }
 else if(lang.includes("ja")) {
 	//Load japanese.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/japanese.json");
 }
 else if(lang.includes("ko")) {
 	//Load korean.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/korean.json");
 }
 else if(lang.includes("pl")) {
 	//Load polish.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/polish.json");
 }
 else if(lang.includes("pt")) {
 	//Load portuguese.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/portuguese.json");
 }
 else if(lang.includes("ru")) {
 	//Load russian.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/russian.json");
 }
 else if(lang.includes("tr")) {
 	//Load turkish.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/turkish.json");
 }
 else if(lang.includes("zh-Hans")) {
 	//Load chinese_simplified.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/chinese_simplified.json");
 }
 else if(lang.includes("zh-Hant")) {
 	//Load chinese_traditional.json into heists variable
+	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/chinese_traditional.json");
 }
 else {
 	//Load english.json into heists variable
