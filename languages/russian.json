@@ -1,0 +1,114 @@
+[
+	{
+		"name": "Зло не дремлет",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "доп. точка сброса добычи, расположение ключ-карты.",
+		"recommendedLoudFavours": "Сумка с броней, доп. термит, фургон не уедет."
+	},
+	{
+		"name": "Дорога ярости",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "ШУМНО",
+		"recommendedStealthFavours": "Не применимо.",
+		"recommendedLoudFavours": "Сумка с броней, открытые сейфы, доп. точка сброса."
+	},
+	{
+		"name": "Грязный лед",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "служебный вход, кофе-брейк.",
+		"recommendedLoudFavours": "Сумка с броней, вертолет на крыше."
+	},
+	{
+		"name": "Раскачаем колыбель",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "код доступа к хранилищу, доп. ключ-карта.",
+		"recommendedLoudFavours": "Сумка с броней, Сумка с зиплайном, криптокошелек."
+	},
+	{
+		"name": "По ту сторону искусства",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "сброс в мусорный контейнер, Сумка с зиплайном, доп. QR-код.",
+		"recommendedLoudFavours": "Сумка с броней, чистое небо."
+	},
+	{
+		"name": "Gold & Sharke",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "доступ к лифту, праздник в кафе, дверь кассы.",
+		"recommendedLoudFavours": "Сумка с броней, части термобура, Сумка с зиплайном."
+	},
+	{
+		"name": "99 ящиков",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "сумки для прототипов, открытый контейнер.",
+		"recommendedLoudFavours": "Сумка с броней, партия термита, открытый контейнер, сумки для прототипов."
+	},
+	{
+		"name": "Выше только звезды",
+		"levelSet": "Основные ограбления",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "рвотное средство, тайник с термитом.",
+		"recommendedLoudFavours": "Сумка с броней, Сумка с зиплайном, тайник с термитом."
+	},
+	{
+		"name": "Сортировочная станция",
+		"levelSet": "Подработки на стороне",
+		"gameplayStyle": "СКРЫТНО",
+		"recommendedStealthFavours": "Сумка с зиплайном, меньше дронов, дверь открыта дольше, больше приманок.",
+		"recommendedLoudFavours": "Не применимо."
+	},
+	{
+		"name": "Варка мета",
+		"levelSet": "Подработки на стороне",
+		"gameplayStyle": "ШУМНО",
+		"recommendedStealthFavours": "Не применимо.",
+		"recommendedLoudFavours": "Сумка с броней, долгая эвакуация, быстрый дроп припасов, больше времени для очистки."
+	},
+	{
+		"name": "Даймонд Дистрикт",
+		"levelSet": "Подработки на стороне",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "ускоренное сканирование, свой человек, больше места для загрузки.",
+		"recommendedLoudFavours": "Сумка с броней, ускоренное сканирование, больше места для загрузки, полицейский фургон."
+	},
+	{
+		"name": "Ошибка синтаксиса",
+		"levelSet": "Гнилое яблоко",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "Сумка с зиплайном, помехи дронов, QR-код доступа, глюк лазеров.",
+		"recommendedLoudFavours": "Сумка с броней, Сумка с зиплайном, быстрая эвакуация."
+	},
+	{
+		"name": "Люди в синем",
+		"levelSet": "Гнилое яблоко",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "ложные вызовы.",
+		"recommendedLoudFavours": "взятка механику, Сумка с броней."
+	},
+	{
+		"name": "Спасение Хьюстона",
+		"levelSet": "Гнилое яблоко",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "бейдж прессы.",
+		"recommendedLoudFavours": "Сумка с броней."
+	},
+	{
+		"name": "Страх и жадность",
+		"levelSet": "Гнилое яблоко",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "начать в здании биржи, переместить брокеров.",
+		"recommendedLoudFavours": "управление ставнями, Сумка с броней."
+	},
+	{
+		"name": "Первый Всемирный банк",
+		"levelSet": "Подработки на стороне",
+		"gameplayStyle": "СКРЫТНО или ШУМНО",
+		"recommendedStealthFavours": "гостевые пропуска у инсайдера, без магнитного замка, без металлодетекторов.",
+		"recommendedLoudFavours": "дроп через лифтовую шахту, доп. сумки с термитом, Сумка с броней."
+	}
+];

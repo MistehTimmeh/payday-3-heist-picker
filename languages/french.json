@@ -1,0 +1,113 @@
+[
+	{
+		"name": "Le mal ne dort jamais",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Sécurisation Supplémentaire, Carte d'accès Dissimulée.",
+		"recommendedLoudFavours": "Mallette à Armure, Thermite Supplémentaire, le Fourgon ne part pas."
+	},
+	{
+		"name": "Violence routière",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Bourrin",
+		"recommendedStealthFavours": "Sans objet.",
+		"recommendedLoudFavours": "Mallette à Armure, Coffres Déverrouillés, Sécurisation Supplémentaire."
+	},
+	{
+		"name": "Diamants sales",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Entrée de Service, Gérante Distraite.",
+		"recommendedLoudFavours": "Mallette à Armure, un Hélico sur le Toit."
+	},
+	{
+		"name": "Enflammer la piste",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Code de la Chambre Forte, Carte d'accès Supplémentaire.",
+		"recommendedLoudFavours": "Mallette à Armure, Sac de Tyrolienne, Crypto-Portefeuille."
+	},
+	{
+		"name": "Le vernis craque",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Benne de Sécurisation, Sac de Tyrolienne, Clé QR Supplémentaire.",
+		"recommendedLoudFavours": "Mallette à Armure, Hélico Rapide."
+	},
+	{
+		"name": "Gold & Sharke",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Accès par l'ascenseur, Pot Entre Collègues, Porte des Guichets.",
+		"recommendedLoudFavours": "Mallette à Armure, Pièces de Lance Thermique, Sac de Tyrolienne."
+	},
+	{
+		"name": "99 boîtes",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Sacs de Prototypes, Conteneur Ouvert.",
+		"recommendedLoudFavours": "Mallette à Armure, Largage de Thermite, Conteneur Ouvert, Sacs de Prototypes."
+	},
+	{
+		"name": "Parmi les étoiles",
+		"levelSet": "Casses principaux",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Agent Vomitif, Thermite Cachée.",
+		"recommendedLoudFavours": "Mallette à Armure, Sac de Tyrolienne, Thermite Cachée."
+	},
+	{
+		"name": "En eaux troubles",
+		"levelSet": "Casses secondaires",
+		"gameplayStyle": "Finesse",
+		"recommendedStealthFavours": "Sac de Tyrolienne, Moins de Drones, Porte Télécommandée Ralentie, Plus de Leurres.",
+		"recommendedLoudFavours": "Sans objet."
+	},
+	{
+		"name": "Amphets à gogo",
+		"levelSet": "Casses secondaires",
+		"gameplayStyle": "Bourrin",
+		"recommendedStealthFavours": "Sans objet.",
+		"recommendedLoudFavours": "Mallette à Armure, Fourgon Permanent, Ravitaillement Plus Rapide, Fenêtre de Pureté Plus Longue."
+	},
+	{
+		"name": "Diamond District",
+		"levelSet": "Casses secondaires",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Scanner de Bijoux Plus Rapide, Agent Infiltré, Zone Sécurisée Supplémentaire.",
+		"recommendedLoudFavours": "Armor Bag, Scanner de Bijoux Plus Rapide, Zone Sécurisée Supplémentaire, Fourgon de Police."
+	},
+	{
+		"name": "Erreur syntaxe",
+		"levelSet": "Pomme pourrie",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Sac de Tyrolienne, Drones Perturbés, Code QR d'accès, Bug des Lasers de Sécurité.",
+		"recommendedLoudFavours": "Mallette à Armure, Sac de Tyrolienne, Hélicoptère d'extraction Plus Rapide."
+	},
+	{
+		"name": "Les petits hommes bleus",
+		"levelSet": "Pomme pourrie",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Faux Appels d'urgence.",
+		"recommendedLoudFavours": "Mécano Soudoyé, Mallette à Armure."
+	},
+	{
+		"name": "La libération de Houston",
+		"levelSet": "Pomme pourrie",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Carte de Presse.",
+		"recommendedLoudFavours": "Mallette à Armure."
+	},
+	{
+		"name": "Le casse du siècle",
+		"levelSet": "Pomme pourrie",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Commencer dans la Bourse, Courtiers Déplacés.",
+		"recommendedLoudFavours": "Commandes des Volets Roulants, Mallette à Armure."
+	},
+	{
+		"name": "Première Banque Mondiale",
+		"levelSet": "Casses secondaires",
+		"gameplayStyle": "Finesse ou Bourrin",
+		"recommendedStealthFavours": "Badge Visiteur de l'agent Infiltré, Verrou Magnétique Désactivé, Détecteurs de Métaux Désactivés.",
+		"recommendedLoudFavours": "Dépôt d'équipement dans l'ascenseur, Sacs de Thermite Supplémentaires, Mallette à Armure."
+	}

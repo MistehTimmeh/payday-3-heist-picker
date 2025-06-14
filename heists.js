@@ -1,124 +1,54 @@
-/*
-Heist Info Template for Future Heists
+//test if headers need to be regen'd
+//test if parent needs to be wiped, or just random box
 
-,
-	{
-		"name": "",
-		"levelSet": "",
-		"gameplayStyle": "",
-		"recommendedStealthFavours": "",
-		"recommendedLoudFavours": "",
-	}
-*/
-
+let lang = navigator.language;
 let oldNumber = -1;
-const heists = [
-	{
-		"name": "No Rest for the Wicked",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Additional Loot Secure Point, Keycard Location.",
-		"recommendedLoudFavours": "Armor Bag, Additional Thermite, Van Escape.",
-	},
-	{
-		"name": "Road Rage",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Loud",
-		"recommendedStealthFavours": "Not applicable.",
-		"recommendedLoudFavours": "Armor Bag, Unlocked Lockboxes, Additional Secure Point.",
-	},
-	{
-		"name": "Dirty Ice",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Employee Entrance, Distracted Manager.",
-		"recommendedLoudFavours": "Armor Bag, Rooftop Chopper.",
-	},
-	{
-		"name": "Rock the Cradle",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Vault Code Access, Additional Keycard.",
-		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Crypto Wallet.",
-	},
-	{
-		"name": "Under the Surphaze",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Dumpster Secure Point, Zipline Bag, Additional QR Key.",
-		"recommendedLoudFavours": "Armor Bag, Faster Chopper.",
-	},
-	{
-		"name": "Golde & Sharke",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Elevator Access, Café Celebration, Teller Door.",
-		"recommendedLoudFavours": "Armor Bag, Thermal Lance Parts, Zip Bag.",
-	},
-	{
-		"name": "99 Boxes",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Prototype Bags, Opened Container.",
-		"recommendedLoudFavours": "Armor Bag, Thermite Drop, Opened Container, Prototype Bags.",
-	},
-	{
-		"name": "Touch the Sky",
-		"levelSet": "Core Heists",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Vomiting Agent, Hidden Thermite.",
-		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Hidden Thermite.",
-	},
-	{
-		"name": "Turbid Station",
-		"levelSet": "Side Hustles",
-		"gameplayStyle": "Stealth",
-		"recommendedStealthFavours": "Zipline Bag, Fewer Drones, Longer Remote Door Timer. More Lures.",
-		"recommendedLoudFavours": "Not applicable.",
-	},
-	{
-		"name": "Cook Off",
-		"levelSet": "Side Hustles",
-		"gameplayStyle": "Loud",
-		"recommendedStealthFavours": "Not applicable.",
-		"recommendedLoudFavours": "Armor Bag, Permanent Escape Van, Faster Supply Drop, Longer Purity Window.",
-	},
-	{
-		"name": "Diamond District",
-		"levelSet": "Side Hustles",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Not applicable.",
-		"recommendedLoudFavours": "Armor Bag, Permanent Escape Van, Faster Supply Drop, Longer Purity Window.",
-	},
-	{
-		"name": "Syntax Error",
-		"levelSet": "The Bad Apple",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Zipline Bag, Scrambled Drones, QR Code Access, Security Laser Glitch.",
-		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Faster Escape Helicopter.",
-	},
-	{
-		"name": "Boys in Blue",
-		"levelSet": "The Bad Apple",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Fake 911 Calls.",
-		"recommendedLoudFavours": "Mechanic Bribe, Armor Bag.",
-	},
-	{
-		"name": "Houston Breakout",
-		"levelSet": "The Bad Apple",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Press Badges.",
-		"recommendedLoudFavours": "Armor Bag.",
-	},
-	{
-		"name": "Fear & Greed",
-		"levelSet": "The Bad Apple",
-		"gameplayStyle": "Stealth or Loud",
-		"recommendedStealthFavours": "Start inside the Exchange, Relocated Stockbrokers.",
-		"recommendedLoudFavours": "Shutter Control, Armor Bag.",
-	}
-];
+
+if(lang.contains("de")) {
+	//Load german.json into heists variable
+}
+else if(lang.contains("es-419")) {
+	//Load spanish_latam.json into heists variable
+}
+else if(lang.contains("es")) {
+	//Load spanish_spain.json into heists variable
+}
+else if(lang.contains("fr")) {
+	//Load french.json into heists variable
+}
+else if(lang.contains("it")) {
+	//Load italian.json into heists variable
+}
+else if(lang.contains("ja")) {
+	//Load japanese.json into heists variable
+}
+else if(lang.contains("ko")) {
+	//Load korean.json into heists variable
+}
+else if(lang.contains("pl")) {
+	//Load polish.json into heists variable
+}
+else if(lang.contains("pt")) {
+	//Load portuguese.json into heists variable
+}
+else if(lang.contains("ru")) {
+	//Load russian.json into heists variable
+}
+else if(lang.contains("tr")) {
+	//Load turkish.json into heists variable
+}
+else if(lang.contains("zh-Hans")) {
+	//Load chinese_simplified.json into heists variable
+}
+else if(lang.contains("zh-Hant")) {
+	//Load chinese_traditional.json into heists variable
+}
+else {
+	//Load english.json into heists variable
+	fetch('https://mistehtimmeh.github.io/payday-3-heist-picker/languages/english.json')
+    .then((response) => response.json())
+    .then((json) => console.log(json));
+}
 
 function regen(heistNumber) {
 	let parent = document.getElementById('fade-box');

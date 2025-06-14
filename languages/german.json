@@ -1,0 +1,114 @@
+[
+	{
+		"name": "Ohne Fleiß kein Preis",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Zusätzlicher Beute-Sicherungspunkt, Schlüsselkarte platziert.",
+		"recommendedLoudFavours": "Panzerungstasche, Zusätzliches Thermit, Transporter fährt nicht weg."
+	},
+	{
+		"name": "Ungeplante Umleitung",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Laut",
+		"recommendedStealthFavours": "Nicht zutreffend.",
+		"recommendedLoudFavours": "Panzerungstasche, Offene Schließfächer, Zusätzlicher Sicherungspunkt."
+	},
+	{
+		"name": "Schmutziger Schmu'ck",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Mitarbeitereingang, Abgelenkte Managerin.",
+		"recommendedLoudFavours": "Panzerungstasche, Heli auf dem Dach."
+	},
+	{
+		"name": "Chaos im Club",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Code zum Tresorraum, Zusätzliche Schlüsselkarte.",
+		"recommendedLoudFavours": "Panzerungstasche, Tasche mit Seilrutsche, Krypto-Wallet."
+	},
+	{
+		"name": "Wahre Kenner",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Müllcontainer-Sicherungspunkt, Tasche mit Seilrutsche, zusätzlicher QR-Code.",
+		"recommendedLoudFavours": "Panzerungstasche, schnellerer Heli."
+	},
+	{
+		"name": "Gold & Sharke",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Zugang zum Aufzug, Feier in der Cafeteria, Schaltertür.",
+		"recommendedLoudFavours": "Panzerungstasche, Sauerstofflanzen-Teile, Tasche mit Seilrutsche."
+	},
+	{
+		"name": "99 Container",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Prototyp-Taschen, Geöffneter Container.",
+		"recommendedLoudFavours": "Panzerungstasche, Thermit-Lieferung, Geöffneter Container, Prototyp-Taschen."
+	},
+	{
+		"name": "Touch the Sky",
+		"levelSet": "Hauptüberfälle",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Brechmittel, Verstecktes Thermit.",
+		"recommendedLoudFavours": "Panzerungstasche, Tasche mit Seilrutsche, Verstecktes Thermit."
+	},
+	{
+		"name": "Turbid Station",
+		"levelSet": "Nebenjobs",
+		"gameplayStyle": "Stealth",
+		"recommendedStealthFavours": "Tasche mit Seilrutsche, Weniger Drohnen, Längere Türöffnung, Mehr Ablenkungen.",
+		"recommendedLoudFavours": "Nicht zutreffend."
+	},
+	{
+		"name": "Kochwettbewerb",
+		"levelSet": "Nebenjobs",
+		"gameplayStyle": "Laut",
+		"recommendedStealthFavours": "Nicht zutreffend.",
+		"recommendedLoudFavours": "Panzerungstasche, Permanenter Transporter, Schnellere Zutaten, Längeres Reinigungsfenster."
+	},
+	{
+		"name": "Diamantenviertel",
+		"levelSet": "Nebenjobs",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Schnellerer Schmuckscanner, Zusätzlicher Sicherheitsbereich.",
+		"recommendedLoudFavours": "Polizeitransporter, Zusätzlicher Sicherheitsbereich."
+	},
+	{
+		"name": "Syntaxfehler",
+		"levelSet": "Der faule Apfel",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Tasche mit Seilrutsche, Drohnen-Störsignal, QR-Code-Zugriff, Sicherheitslaser-Fehler.",
+		"recommendedLoudFavours": "Panzerungstasche, Tasche mit Seilrutsche, Faster Schnellerer Fluchthubschrauber."
+	},
+	{
+		"name": "Die Jungs in Blau",
+		"levelSet": "Der faule Apfel",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Falsche Polizeianrufe.",
+		"recommendedLoudFavours": "Bestechlicher Mechaniker, Panzerungstasche."
+	},
+	{
+		"name": "Houston-Ausbruch",
+		"levelSet": "Der faule Apfel",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Presseausweis.",
+		"recommendedLoudFavours": "Panzerungstasche."
+	},
+	{
+		"name": "Furcht und Gier",
+		"levelSet": "Der faule Apfel",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Start in der Börse, Verlagerte Börsenmakler.",
+		"recommendedLoudFavours": "Rolltore, Panzerungstasche."
+	},
+	{
+		"name": "First World Bank",
+		"levelSet": "Nebenjobs",
+		"gameplayStyle": "Heimlichkeit oder Laut",
+		"recommendedStealthFavours": "Besucherausweis von Insider, Magnetschloss deaktiviert, Metalldetektoren deaktiviert.",
+		"recommendedLoudFavours": "Ausrüstungslieferung über Aufzug, Zusätzliche Thermittaschen, Panzerungstasche."
+	}
+]

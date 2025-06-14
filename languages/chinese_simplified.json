@@ -1,0 +1,114 @@
+[
+	{
+		"name": "恶者不息",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "额外战利品劫获点, 钥匙卡位置.",
+		"recommendedLoudFavours": "护甲箱, 额外铝热剂, 货车不会离开."
+	},
+	{
+		"name": "路怒症",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "强袭奖励",
+		"recommendedStealthFavours": "不適用.",
+		"recommendedLoudFavours": "护甲箱, 解锁保险箱, 额外劫获点."
+	},
+	{
+		"name": "血钻无痕",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "员工入口, 引开经理.",
+		"recommendedLoudFavours": "护甲箱, 屋顶直升机."
+	},
+	{
+		"name": "摇篮欲坠",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "金库密码权限, 额外钥匙卡.",
+		"recommendedLoudFavours": "护甲箱, 滑索包, 加密钱包."
+	},
+	{
+		"name": "浮华之下",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "垃圾箱劫获点, 滑索包, 额外二维码.",
+		"recommendedLoudFavours": "护甲箱, 更快的直升机."
+	},
+	{
+		"name": "鲨口夺金",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "电梯权限, 餐厅庆典, 柜台大门.",
+		"recommendedLoudFavours": "护甲箱, 热力喷枪部件, 滑索包."
+	},
+	{
+		"name": "冷链速递",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "原型机装包, 打开的集装箱.",
+		"recommendedLoudFavours": "护甲箱, 铝热剂空投, 打开的集装箱, 原型机装包."
+	},
+	{
+		"name": "摘星行动",
+		"levelSet": "核心劫案",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "催吐剂, 隐藏铝热剂.",
+		"recommendedLoudFavours": "护甲箱, 滑索包, 隐藏铝热剂."
+	},
+	{
+		"name": "车站风云",
+		"levelSet": "副业",
+		"gameplayStyle": "潜行",
+		"recommendedStealthFavours": "滑索包, 减少无人机, 远程遥控门开启时间延长, 更多诱饵.",
+		"recommendedLoudFavours": "不適用."
+	},
+	{
+		"name": "夺命毒师",
+		"levelSet": "副业",
+		"gameplayStyle": "强袭奖励",
+		"recommendedStealthFavours": "不適用.",
+		"recommendedLoudFavours": "护甲箱, 逃脱用货车驻留, 空投更快, 安全精炼时间延长."
+	},
+	{
+		"name": "钻石区",
+		"levelSet": "副业",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "快速扫描仪, 内应, 附加安全区.",
+		"recommendedLoudFavours": "护甲箱, 快速扫描仪, 附加安全区, 警车."
+	},
+	{
+		"name": "语法错误",
+		"levelSet": "害群之马",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "滑索包, 扰乱无人机, 二维码访问, 安保激光故障.",
+		"recommendedLoudFavours": "护甲箱, 滑索包, 更快地撤离直升机."
+	},
+	{
+		"name": "警钟长鸣",
+		"levelSet": "害群之马",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "报假警.",
+		"recommendedLoudFavours": "贿赂机械师, 护甲箱."
+	},
+	{
+		"name": "解救休斯顿",
+		"levelSet": "害群之马",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "假证件.",
+		"recommendedLoudFavours": "护甲箱."
+	},
+	{
+		"name": "恐惧与贪婪",
+		"levelSet": "害群之马",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "从交易所内部开始, 调虎（股票中介）离山.",
+		"recommendedLoudFavours": "卷帘门控制, 护甲箱."
+	},
+	{
+		"name": "第一世界银行",
+		"levelSet": "副业",
+		"gameplayStyle": "潜行 或 强袭奖励",
+		"recommendedStealthFavours": "内线给予的访客通行证, 已禁用磁锁, 已关闭金属探测器.",
+		"recommendedLoudFavours": "电梯装备掉落, 额外的铝热剂袋, 护甲箱."
+	}
+];
