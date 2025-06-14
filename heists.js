@@ -10,6 +10,13 @@ let heists = [
 		"gameplayStyle": "TEST",
 		"recommendedStealthFavours": "TEST",
 		"recommendedLoudFavours": "TEST"
+	},
+	{
+		"name": "TEST2",
+		"levelSet": "TEST2",
+		"gameplayStyle": "TEST2",
+		"recommendedStealthFavours": "TEST2",
+		"recommendedLoudFavours": "TEST2"
 	}
 ];
 
