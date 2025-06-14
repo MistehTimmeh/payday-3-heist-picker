@@ -65,9 +65,9 @@ else {
 }
 
 async function getJSON(url) {
-    const response = await fetch(url);
-    const json = await response.json();
-	return json;
+    fetch(url)
+	.then(response => response.json())
+	.then(data => console.log(data));
 }
 
 function regen(heistNumber) {
