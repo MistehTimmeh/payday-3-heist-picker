@@ -3,6 +3,7 @@
 
 let lang = navigator.language;
 let oldNumber = -1;
+let heists = [];
 
 if(lang.contains("de")) {
 	//Load german.json into heists variable
@@ -48,6 +49,8 @@ else {
 	fetch('https://mistehtimmeh.github.io/payday-3-heist-picker/languages/english.json')
     .then((response) => response.json())
     .then((json) => console.log(json));
+	
+	heists = json;
 }
 
 function regen(heistNumber) {
