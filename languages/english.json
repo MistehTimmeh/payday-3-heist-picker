@@ -4,70 +4,70 @@
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Additional Loot Secure Point, Keycard Location.",
-		"recommendedLoudFavours": "Armor Bag, Additional Thermite, Van Escape.",
+		"recommendedLoudFavours": "Armor Bag, Additional Thermite, Van Escape."
 	},
 	{
 		"name": "Road Rage",
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Loud",
 		"recommendedStealthFavours": "Not applicable.",
-		"recommendedLoudFavours": "Armor Bag, Unlocked Lockboxes, Additional Secure Point.",
+		"recommendedLoudFavours": "Armor Bag, Unlocked Lockboxes, Additional Secure Point."
 	},
 	{
 		"name": "Dirty Ice",
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Employee Entrance, Distracted Manager.",
-		"recommendedLoudFavours": "Armor Bag, Rooftop Chopper.",
+		"recommendedLoudFavours": "Armor Bag, Rooftop Chopper."
 	},
 	{
 		"name": "Rock the Cradle",
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Vault Code Access, Additional Keycard.",
-		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Crypto Wallet.",
+		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Crypto Wallet."
 	},
 	{
 		"name": "Under the Surphaze",
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Dumpster Secure Point, Zipline Bag, Additional QR Key.",
-		"recommendedLoudFavours": "Armor Bag, Faster Chopper.",
+		"recommendedLoudFavours": "Armor Bag, Faster Chopper."
 	},
 	{
 		"name": "Golde & Sharke",
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Elevator Access, Café Celebration, Teller Door.",
-		"recommendedLoudFavours": "Armor Bag, Thermal Lance Parts, Zip Bag.",
+		"recommendedLoudFavours": "Armor Bag, Thermal Lance Parts, Zip Bag."
 	},
 	{
 		"name": "99 Boxes",
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Prototype Bags, Opened Container.",
-		"recommendedLoudFavours": "Armor Bag, Thermite Drop, Opened Container, Prototype Bags.",
+		"recommendedLoudFavours": "Armor Bag, Thermite Drop, Opened Container, Prototype Bags."
 	},
 	{
 		"name": "Touch the Sky",
 		"levelSet": "Core Heists",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Vomiting Agent, Hidden Thermite.",
-		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Hidden Thermite.",
+		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Hidden Thermite."
 	},
 	{
 		"name": "Turbid Station",
 		"levelSet": "Side Hustles",
 		"gameplayStyle": "Stealth",
 		"recommendedStealthFavours": "Zipline Bag, Fewer Drones, Longer Remote Door Timer. More Lures.",
-		"recommendedLoudFavours": "Not applicable.",
+		"recommendedLoudFavours": "Not applicable."
 	},
 	{
 		"name": "Cook Off",
 		"levelSet": "Side Hustles",
 		"gameplayStyle": "Loud",
 		"recommendedStealthFavours": "Not applicable.",
-		"recommendedLoudFavours": "Armor Bag, Permanent Escape Van, Faster Supply Drop, Longer Purity Window.",
+		"recommendedLoudFavours": "Armor Bag, Permanent Escape Van, Faster Supply Drop, Longer Purity Window."
 	},
 	{
 		"name": "Diamond District",
@@ -81,28 +81,28 @@
 		"levelSet": "The Bad Apple",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Zipline Bag, Scrambled Drones, QR Code Access, Security Laser Glitch.",
-		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Faster Escape Helicopter.",
+		"recommendedLoudFavours": "Armor Bag, Zipline Bag, Faster Escape Helicopter."
 	},
 	{
 		"name": "Boys in Blue",
 		"levelSet": "The Bad Apple",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Fake 911 Calls.",
-		"recommendedLoudFavours": "Mechanic Bribe, Armor Bag.",
+		"recommendedLoudFavours": "Mechanic Bribe, Armor Bag."
 	},
 	{
 		"name": "Houston Breakout",
 		"levelSet": "The Bad Apple",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Press Badges.",
-		"recommendedLoudFavours": "Armor Bag.",
+		"recommendedLoudFavours": "Armor Bag."
 	},
 	{
 		"name": "Fear & Greed",
 		"levelSet": "The Bad Apple",
 		"gameplayStyle": "Stealth or Loud",
 		"recommendedStealthFavours": "Start inside the Exchange, Relocated Stockbrokers.",
-		"recommendedLoudFavours": "Shutter Control, Armor Bag.",
+		"recommendedLoudFavours": "Shutter Control, Armor Bag."
 	},
 	{
 		"name": "First World Bank",
