@@ -1,4 +1,4 @@
-[
+{
 	{
 		"name": "No Rest for the Wicked",
 		"levelSet": "Core Heists",
@@ -111,4 +111,4 @@
 		"recommendedStealthFavours": "Visitor pass at Inside man, Magnetic lock disabled, Metal detectors disabled.",
 		"recommendedLoudFavours": "Elevator equipment drop, Extra thermite bags, Armor Bag."
 	}
-]
+}
