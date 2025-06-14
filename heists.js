@@ -5,43 +5,43 @@ let lang = navigator.language;
 let oldNumber = -1;
 let heists = [];
 
-if(lang.contains("de")) {
+if(lang.includes("de")) {
 	//Load german.json into heists variable
 }
-else if(lang.contains("es-419")) {
+else if(lang.includes("es-419")) {
 	//Load spanish_latam.json into heists variable
 }
-else if(lang.contains("es")) {
+else if(lang.includes("es")) {
 	//Load spanish_spain.json into heists variable
 }
-else if(lang.contains("fr")) {
+else if(lang.includes("fr")) {
 	//Load french.json into heists variable
 }
-else if(lang.contains("it")) {
+else if(lang.includes("it")) {
 	//Load italian.json into heists variable
 }
-else if(lang.contains("ja")) {
+else if(lang.includes("ja")) {
 	//Load japanese.json into heists variable
 }
-else if(lang.contains("ko")) {
+else if(lang.includes("ko")) {
 	//Load korean.json into heists variable
 }
-else if(lang.contains("pl")) {
+else if(lang.includes("pl")) {
 	//Load polish.json into heists variable
 }
-else if(lang.contains("pt")) {
+else if(lang.includes("pt")) {
 	//Load portuguese.json into heists variable
 }
-else if(lang.contains("ru")) {
+else if(lang.includes("ru")) {
 	//Load russian.json into heists variable
 }
-else if(lang.contains("tr")) {
+else if(lang.includes("tr")) {
 	//Load turkish.json into heists variable
 }
-else if(lang.contains("zh-Hans")) {
+else if(lang.includes("zh-Hans")) {
 	//Load chinese_simplified.json into heists variable
 }
-else if(lang.contains("zh-Hant")) {
+else if(lang.includes("zh-Hant")) {
 	//Load chinese_traditional.json into heists variable
 }
 else {
