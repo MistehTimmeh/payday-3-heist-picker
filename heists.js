@@ -64,7 +64,7 @@ else {
 async function getJSON(url) {
     fetch(url)
 	.then(response => response.json())
-	.then(data => let heists = data);
+	.then(data => {let heists = data;});
 }
 
 function regen(heistNumber) {
