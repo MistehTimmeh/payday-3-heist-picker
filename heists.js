@@ -48,7 +48,7 @@ else {
 	//Load english.json into heists variable
 	fetch('https://mistehtimmeh.github.io/payday-3-heist-picker/languages/english.json')
 	.then(response => response.json())
-	.then(result => heist = result)
+	.then(result => heists = result)
 	
 	console.log(heists);
 }
