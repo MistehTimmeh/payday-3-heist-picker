@@ -46,10 +46,13 @@ else if(lang.includes("zh-Hant")) {
 }
 else {
 	//Load english.json into heists variable
-	fetch('https://mistehtimmeh.github.io/payday-3-heist-picker/languages/english.json')
-	.then(response => response.json())
-	.then(result => console.log(result))
-	
+	getJSON();
+}
+
+async function getJSON() {
+    const response = await fetch("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/english.json");
+    const json = await response.json();
+    console.log(json);
 }
 
 function regen(heistNumber) {
