@@ -62,9 +62,11 @@ else {
 }
 
 async function getJSON(url) {
+	let heists = [];
+	
     fetch(url)
 	.then(response => response.json())
-	.then(data => {let heists = data;});
+	.then(data => heists = data);
 }
 
 function regen(heistNumber) {
