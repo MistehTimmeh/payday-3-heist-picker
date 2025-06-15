@@ -1,86 +1,86 @@
 //test if headers need to be regen'd
 //test if parent needs to be wiped, or just random box
+//double check json files for mistakes (german stealth)
+//try removing if else and fetching json based on retrieved lang value
 
-let lang = navigator.language;
+let lang = navigator.language.substring(0,2);
 let oldNumber = -1;
 let heists = [
 	{
-		"name": "Click button for new heist",
-		"levelSet": "Click button for new heist",
-		"gameplayStyle": "Click button for new heist",
-		"recommendedStealthFavours": "Click button for new heist",
-		"recommendedLoudFavours": "Click button for new heist"
-	},
-	{
-		"name": "Click button for new heist",
-		"levelSet": "Click button for new heist",
-		"gameplayStyle": "Click button for new heist",
-		"recommendedStealthFavours": "Click button for new heist",
-		"recommendedLoudFavours": "Click button for new heist"
+		"name": "Pick a new heist",
+		"levelSet": "",
+		"gameplayStyle": "",
+		"recommendedStealthFavours": "",
+		"recommendedLoudFavours": ""
 	}
 ];
 
+/*
 if(lang.includes("de")) {
-	//Load german.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/german.json");
-}
-else if(lang.includes("es-419")) {
-	//Load spanish_latam.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/spanish_latam.json");
+	let lang = "german";
+	getJSON(lang);
 }
 else if(lang.includes("es")) {
-	//Load spanish_spain.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/spanish_spain.json");
+	let lang = "spanish";
+	getJSON(lang);
 }
 else if(lang.includes("fr")) {
-	//Load french.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/french.json");
+	let lang = "french";
+	getJSON(lang);
 }
 else if(lang.includes("it")) {
-	//Load italian.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/italian.json");
+	let lang = "italian";
+	getJSON(lang);
 }
 else if(lang.includes("ja")) {
-	//Load japanese.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/japanese.json");
+	let lang = "japanese";
+	getJSON(lang);
 }
 else if(lang.includes("ko")) {
-	//Load korean.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/korean.json");
+	let lang = "korean";
+	getJSON(lang);
 }
 else if(lang.includes("pl")) {
-	//Load polish.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/polish.json");
+	let lang = "polish";
+	getJSON(lang);
 }
 else if(lang.includes("pt")) {
-	//Load portuguese.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/portuguese.json");
+	let lang = "portuguese";
+	getJSON(lang);
 }
 else if(lang.includes("ru")) {
-	//Load russian.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/russian.json");
+	let lang = "russian";
+	getJSON(lang);
 }
 else if(lang.includes("tr")) {
-	//Load turkish.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/turkish.json");
+	let lang = "turkish";
+	getJSON(lang);
 }
-else if(lang.includes("zh-Hans")) {
-	//Load chinese_simplified.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/chinese_simplified.json");
-}
-else if(lang.includes("zh-Hant")) {
-	//Load chinese_traditional.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/chinese_traditional.json");
+else if(lang.includes("zh")) {
+	let lang = "chinese";
+	getJSON(lang);
 }
 else {
-	//Load english.json into heists variable
-	getJSON("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/english.json");
+	let lang = "english";
+	getJSON(lang);
+}
+*/
+
+try {
+	getJSON(lang);
+}
+catch(error) {
+	getJSON('en');
 }
 
-async function getJSON(url) {
-	
-    fetch(url)
-	.then(response => response.json())
+async function getJSON(langJSON) {
+    fetch("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/" + langJSON + ".json")
+	.then(response => {
+		if (response.ok) {
+			return response.json();
+		}
+		throw new Error('Response not ok');
+	})
 	.then(data => heists = data);
 }
 
@@ -166,6 +166,8 @@ function generateRandomHeist() {
 	while(oldNumber == heistNumber) {
 		heistNumber = Math.floor(Math.random() * (heists.length - 1));
 	}
+	
+	// try loading language here to allow for translating common elements
 	
 	regen(heistNumber);
 }
