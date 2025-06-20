@@ -2,6 +2,7 @@
 //test if parent needs to be wiped, or just random box
 //double check json files for mistakes (german stealth)
 
+let availableLanguages = ['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt', 'ru', 'tr', 'zh']
 let lang = navigator.language.substring(0,2);
 let oldNumber = -1;
 let heists = [
@@ -14,61 +15,10 @@ let heists = [
 	}
 ];
 
-/*
-if(lang.includes("de")) {
-	let lang = "german";
-	getJSON(lang);
-}
-else if(lang.includes("es")) {
-	let lang = "spanish";
-	getJSON(lang);
-}
-else if(lang.includes("fr")) {
-	let lang = "french";
-	getJSON(lang);
-}
-else if(lang.includes("it")) {
-	let lang = "italian";
-	getJSON(lang);
-}
-else if(lang.includes("ja")) {
-	let lang = "japanese";
-	getJSON(lang);
-}
-else if(lang.includes("ko")) {
-	let lang = "korean";
-	getJSON(lang);
-}
-else if(lang.includes("pl")) {
-	let lang = "polish";
-	getJSON(lang);
-}
-else if(lang.includes("pt")) {
-	let lang = "portuguese";
-	getJSON(lang);
-}
-else if(lang.includes("ru")) {
-	let lang = "russian";
-	getJSON(lang);
-}
-else if(lang.includes("tr")) {
-	let lang = "turkish";
-	getJSON(lang);
-}
-else if(lang.includes("zh")) {
-	let lang = "chinese";
+if(availableLanguages.includes(lang)) {
 	getJSON(lang);
 }
 else {
-	let lang = "english";
-	getJSON(lang);
-}
-*/
-
-try {
-	getJSON(lang);
-}
-catch(error) {
 	getJSON('en');
 }
 
