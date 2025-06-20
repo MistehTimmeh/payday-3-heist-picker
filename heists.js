@@ -75,10 +75,12 @@ catch(error) {
 async function getJSON(langJSON) {
     fetch("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/" + langJSON + ".json")
 	.then(response => {
-		if (response.ok) {
+		if (!response.ok) {
+			throw new Error('Response not ok');
+		}
+		else {
 			return response.json();
 		}
-		throw new Error('Response not ok');
 	})
 	.then(data => heists = data)
 	.catch(e => console.error('URL failed to fetch'));
