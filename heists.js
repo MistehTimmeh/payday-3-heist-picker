@@ -1,7 +1,6 @@
 //test if headers need to be regen'd
 //test if parent needs to be wiped, or just random box
 //double check json files for mistakes (german stealth)
-//try removing if else and fetching json based on retrieved lang value
 
 let lang = navigator.language.substring(0,2);
 let oldNumber = -1;
@@ -81,7 +80,8 @@ async function getJSON(langJSON) {
 		}
 		throw new Error('Response not ok');
 	})
-	.then(data => heists = data);
+	.then(data => heists = data)
+	.catch(e => console.error('Response not ok'));
 }
 
 function regen(heistNumber) {
