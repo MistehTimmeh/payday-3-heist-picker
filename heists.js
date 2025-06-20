@@ -81,7 +81,7 @@ async function getJSON(langJSON) {
 		throw new Error('Response not ok');
 	})
 	.then(data => heists = data)
-	.catch(e => console.error('Response not ok'));
+	.catch(e => console.error('URL failed to fetch'));
 }
 
 function regen(heistNumber) {
