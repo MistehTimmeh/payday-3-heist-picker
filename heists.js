@@ -33,6 +33,7 @@ async function getJSON(langJSON) {
 }
 
 function regen(heistNumber) {
+	let heistInfo = heists[heistNumber];
 	let parent = document.getElementById('fade-box');
 	
 	let randomBox = document.createElement('div');
@@ -77,10 +78,6 @@ function regen(heistNumber) {
 	let loudFavoursP = document.createElement('p');
 	loudFavoursP.className = 'fade-in-anim';
 	
-	let heistInfo = heists[heistNumber];
-	
-	oldNumber = heistNumber;
-	
 	heistNameP.textContent = heistInfo['heists']['name'];
 	levelSetValueP.textContent = heistInfo['heists']['levelSet'];
 	gameplayStyleValueP.textContent = heistInfo['heists']['gameplayStyle'];
@@ -105,6 +102,8 @@ function regen(heistNumber) {
 	randomBox.appendChild(infoBoxFavourInfo);
 	
 	parent.appendChild(randomBox);
+	
+	oldNumber = heistNumber;
 	
 }
 
