@@ -1,114 +1,121 @@
 [
-	{
-		"name": "Os Maus Nunca Descansam",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Ponto Adicional de Remoção do Saque, Localização do Cartão de Acesso.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Termita Adicional, Van Não Partirá."
-	},
-	{
-		"name": "Fúria na Estrada",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Ruidoso",
-		"recommendedStealthFavours": "Não aplicável.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Cofres Desbloqueados, Ponto de Remoção Adicional."
-	},
-	{
-		"name": "Diamantes Sujos",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Entrada de Funcionários, Gerente Distraída.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Helicóptero no Terraço."
-	},
-	{
-		"name": "Arrasando a Cradle",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Acesso ao Código do Cofre, Cartão de Acesso Adicional.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Bolsa de Tirolesa, Criptocarteira."
-	},
-	{
-		"name": "Sob a Surphaze",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Lixeira para Remoção, Bolsa de Tirolesa, Código QR Adicional.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Helicóptero Mais Rápido."
-	},
-	{
-		"name": "Gold & Sharke",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Acesso ao Elevador, Comemoração no Café, Porta dos Caixas.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Peças de Lança Térmica, Bolsa de Tirolesa."
-	},
-	{
-		"name": "99 Caixas",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Bolsas de Protótipo, Contêiner Aberto.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Fornecimento de Termita, Contêiner Aberto, Bolsas de Protótipo."
-	},
-	{
-		"name": "Tocando o Céu",
-		"levelSet": "Golpes Principais",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Agente Emético, Termita Oculta.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Bolsa de Tirolesa, Termita Oculta."
-	},
-	{
-		"name": "Estação Turva",
-		"levelSet": "Negócios Paralelos",
-		"gameplayStyle": "Furtividade",
-		"recommendedStealthFavours": "Bolsa de Tirolesa, Menos Drones, Porta Remota Mais Longa, Mais Iscas.",
-		"recommendedLoudFavours": "Não aplicável."
-	},
-	{
-		"name": "Cozinheiros",
-		"levelSet": "Negócios Paralelos",
-		"gameplayStyle": "Ruidoso",
-		"recommendedStealthFavours": "Não aplicável.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Van de Fuga Permanente, Entrega Mais Rápida, Mais Tempo de Pureza."
-	},
-	{
-		"name": "Diamond District",
-		"levelSet": "Negócios Paralelos",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Scanner de Joias Mais Rápido, Infiltrado, Zona de Segurança Adicional.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Scanner de Joias Mais Rápido, Zona de Segurança Adicional, Van Policial."
-	},
-	{
-		"name": "Erro de Sintaxe",
-		"levelSet": "A Maçã Podre",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Bolsa de Tirolesa, Drones Hackeados, Acesso por QR, Falha no Laser.",
-		"recommendedLoudFavours": "Bolsa de Armadura, Bolsa de Tirolesa, Helicóptero Adiantado."
-	},
-	{
-		"name": "Vestidos de Azul",
-		"levelSet": "A Maçã Podre",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Ligações Falsas.",
-		"recommendedLoudFavours": "Suborno do Mecânico, Bolsa de Armadura."
-	},
-	{
-		"name": "A Fuga de Houston",
-		"levelSet": "A Maçã Podre",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Crachá de Imprensa.",
-		"recommendedLoudFavours": "Bolsa de Armadura."
-	},
-	{
-		"name": "Medo e Ganância",
-		"levelSet": "A Maçã Podre",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Início dentro da Bolsa de Valores, Corretores Realocados.",
-		"recommendedLoudFavours": "Controle das Proteções, Bolsa de Armadura."
-	},
-	{
-		"name": "Banco de Primeiro Mundo",
-		"levelSet": "Negócios Paralelos",
-		"gameplayStyle": "Furtividade ou Ruidoso",
-		"recommendedStealthFavours": "Passe de visitante com o infiltrado, Fechadura magnética desativada, Detectores de metal desativados.",
-		"recommendedLoudFavours": "Entrega de equipamento no elevador, Bolsas de termita extras, Bolsa de Armadura."
-	}
+	'heists': [
+		{
+			"name": "Os Maus Nunca Descansam",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Ponto Adicional de Remoção do Saque, Localização do Cartão de Acesso.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Termita Adicional, Van Não Partirá."
+		},
+		{
+			"name": "Fúria na Estrada",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Ruidoso",
+			"recommendedStealthFavours": "Não aplicável.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Cofres Desbloqueados, Ponto de Remoção Adicional."
+		},
+		{
+			"name": "Diamantes Sujos",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Entrada de Funcionários, Gerente Distraída.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Helicóptero no Terraço."
+		},
+		{
+			"name": "Arrasando a Cradle",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Acesso ao Código do Cofre, Cartão de Acesso Adicional.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Bolsa de Tirolesa, Criptocarteira."
+		},
+		{
+			"name": "Sob a Surphaze",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Lixeira para Remoção, Bolsa de Tirolesa, Código QR Adicional.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Helicóptero Mais Rápido."
+		},
+		{
+			"name": "Gold & Sharke",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Acesso ao Elevador, Comemoração no Café, Porta dos Caixas.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Peças de Lança Térmica, Bolsa de Tirolesa."
+		},
+		{
+			"name": "99 Caixas",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Bolsas de Protótipo, Contêiner Aberto.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Fornecimento de Termita, Contêiner Aberto, Bolsas de Protótipo."
+		},
+		{
+			"name": "Tocando o Céu",
+			"levelSet": "Golpes Principais",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Agente Emético, Termita Oculta.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Bolsa de Tirolesa, Termita Oculta."
+		},
+		{
+			"name": "Estação Turva",
+			"levelSet": "Negócios Paralelos",
+			"gameplayStyle": "Furtividade",
+			"recommendedStealthFavours": "Bolsa de Tirolesa, Menos Drones, Porta Remota Mais Longa, Mais Iscas.",
+			"recommendedLoudFavours": "Não aplicável."
+		},
+		{
+			"name": "Cozinheiros",
+			"levelSet": "Negócios Paralelos",
+			"gameplayStyle": "Ruidoso",
+			"recommendedStealthFavours": "Não aplicável.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Van de Fuga Permanente, Entrega Mais Rápida, Mais Tempo de Pureza."
+		},
+		{
+			"name": "Diamond District",
+			"levelSet": "Negócios Paralelos",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Scanner de Joias Mais Rápido, Infiltrado, Zona de Segurança Adicional.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Scanner de Joias Mais Rápido, Zona de Segurança Adicional, Van Policial."
+		},
+		{
+			"name": "Erro de Sintaxe",
+			"levelSet": "A Maçã Podre",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Bolsa de Tirolesa, Drones Hackeados, Acesso por QR, Falha no Laser.",
+			"recommendedLoudFavours": "Bolsa de Armadura, Bolsa de Tirolesa, Helicóptero Adiantado."
+		},
+		{
+			"name": "Vestidos de Azul",
+			"levelSet": "A Maçã Podre",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Ligações Falsas.",
+			"recommendedLoudFavours": "Suborno do Mecânico, Bolsa de Armadura."
+		},
+		{
+			"name": "A Fuga de Houston",
+			"levelSet": "A Maçã Podre",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Crachá de Imprensa.",
+			"recommendedLoudFavours": "Bolsa de Armadura."
+		},
+		{
+			"name": "Medo e Ganância",
+			"levelSet": "A Maçã Podre",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Início dentro da Bolsa de Valores, Corretores Realocados.",
+			"recommendedLoudFavours": "Controle das Proteções, Bolsa de Armadura."
+		},
+		{
+			"name": "Banco de Primeiro Mundo",
+			"levelSet": "Negócios Paralelos",
+			"gameplayStyle": "Furtividade ou Ruidoso",
+			"recommendedStealthFavours": "Passe de visitante com o infiltrado, Fechadura magnética desativada, Detectores de metal desativados.",
+			"recommendedLoudFavours": "Entrega de equipamento no elevador, Bolsas de termita extras, Bolsa de Armadura."
+		}
+	],
+	'levelSet': "RESPETIVO NÍVEL DEFINIDO",
+	'gameplayStyle': "ESTILO DE JOGO",
+	'favourInfo': "FAVORES RECOMENDADOS",
+	'stealthFavours': "Furtividade: ",
+	'loudFavours': "Ruidoso: "
 ]

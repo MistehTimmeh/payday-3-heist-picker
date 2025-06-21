@@ -1,114 +1,121 @@
 [
-	{
-		"name": "Nie ma zmiłuj",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "dodatkowy zrzut łupów, lokalizacja karty.",
-		"recommendedLoudFavours": "Torba z pancerzem, dodatkowy termit, furgonetka nie odjedzie."
-	},
-	{
-		"name": "Godziny szczytu",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Na głośno",
-		"recommendedStealthFavours": "Nie dotyczy.",
-		"recommendedLoudFavours": "Torba z pancerzem, otwarte skrytki, dodatkowy zrzut łupów."
-	},
-	{
-		"name": "Brudny lód",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "wejście dla pracowników, zdekoncentrowana kierowniczka.",
-		"recommendedLoudFavours": "Torba z pancerzem, śmigłowiec na dachu."
-	},
-	{
-		"name": "Impreza w klubie",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "kod dostępu do skarbca, dodatkowa karta.",
-		"recommendedLoudFavours": "Torba z pancerzem, Torba z tyrolką, portfel kryptowalut."
-	},
-	{
-		"name": "Galeria powierzchowności",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "zabezpieczenie łupów w śmietniku, Torba z tyrolką, dodatkowy kod QR.",
-		"recommendedLoudFavours": "Torba z pancerzem, szybszy śmigłowiec."
-	},
-	{
-		"name": "Gold & Sharke",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "dostęp do windy, święto w kawiarni, drzwi do kas.",
-		"recommendedLoudFavours": "Torba z pancerzem, części wiertła termicznego, Torba z tyrolką."
-	},
-	{
-		"name": "99 skrzyń",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "prototypowe torby, otwarty kontener.",
-		"recommendedLoudFavours": "Torba z pancerzem, zrzut termitu, otwarty kontener, prototypowe torby."
-	},
-	{
-		"name": "Sięgając nieba",
-		"levelSet": "Główne napady",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "środek wymiotny, ukryty termit.",
-		"recommendedLoudFavours": "Torba z pancerzem, Torba z tyrolką, ukryty termit."
-	},
-	{
-		"name": "Stacja Turbid",
-		"levelSet": "Napady dodatkowe",
-		"gameplayStyle": "Po cichu",
-		"recommendedStealthFavours": "Torba z tyrolką, mniej dronów, więcej czasu na zegarze zdalnie sterowanych drzwi, więcej wabików.",
-		"recommendedLoudFavours": "Nie dotyczy."
-	},
-	{
-		"name": "Wielkie gotowanie",
-		"levelSet": "Napady dodatkowe",
-		"gameplayStyle": "Na głośno",
-		"recommendedStealthFavours": "Nie dotyczy.",
-		"recommendedLoudFavours": "Torba z pancerzem, stale dostępny pojazd ucieczkowy, szybszy zrzut zaopatrzenia, więcej czasu na oczyszczenie metamfetaminy."
-	},
-	{
-		"name": "Diamentowa dzielnica",
-		"levelSet": "Napady dodatkowe",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "szybszy skaner biżuterii, przekupiony pracownik, dodatkowa bezpieczna strefa.",
-		"recommendedLoudFavours": "Torba z pancerzem, szybszy skaner biżuterii, dodatkowa bezpieczna strefa, policyjna furgonetka."
-	},
-	{
-		"name": "Błąd składniowy",
-		"levelSet": "Zepsute jabłko",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "Torba z tyrolką, zaprogramowane drony, dostępowy kod QR, usterka lasera bezpieczeństwa.",
-		"recommendedLoudFavours": "Torba z pancerzem, Torba z tyrolką, szybsza ucieczka helikopterem."
-	},
-	{
-		"name": "Niebieskie chłopaki",
-		"levelSet": "Zepsute jabłko",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "fałszywe telefony pod 911.",
-		"recommendedLoudFavours": "przekupiony mechanik, Torba z pancerzem."
-	},
-	{
-		"name": "Odbicie Houstona",
-		"levelSet": "Zepsute jabłko",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "legitymacja prasowa.",
-		"recommendedLoudFavours": "Torba z pancerzem."
-	},
-	{
-		"name": "Strach i chciwość",
-		"levelSet": "Zepsute jabłko",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "rozpoczęcie wewnątrz giełdy, przeniesieni maklerzy giełdowi.",
-		"recommendedLoudFavours": "kontrola nad okiennicami, Torba z pancerzem."
-	},
-	{
-		"name": "Pierwszy Bank Światowy",
-		"levelSet": "Napady dodatkowe",
-		"gameplayStyle": "Po cichu lub Na głośno",
-		"recommendedStealthFavours": "przepustka dla gości u kreta, zamek magnetyczny wyłączony, wykrywacze metalu wyłączone.",
-		"recommendedLoudFavours": "zrzut sprzętu w windzie, dodatkowe torby z termitem, Torba z pancerzem."
-	}
+	'heists': [
+		{
+			"name": "Nie ma zmiłuj",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "dodatkowy zrzut łupów, lokalizacja karty.",
+			"recommendedLoudFavours": "Torba z pancerzem, dodatkowy termit, furgonetka nie odjedzie."
+		},
+		{
+			"name": "Godziny szczytu",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Na głośno",
+			"recommendedStealthFavours": "Nie dotyczy.",
+			"recommendedLoudFavours": "Torba z pancerzem, otwarte skrytki, dodatkowy zrzut łupów."
+		},
+		{
+			"name": "Brudny lód",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "wejście dla pracowników, zdekoncentrowana kierowniczka.",
+			"recommendedLoudFavours": "Torba z pancerzem, śmigłowiec na dachu."
+		},
+		{
+			"name": "Impreza w klubie",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "kod dostępu do skarbca, dodatkowa karta.",
+			"recommendedLoudFavours": "Torba z pancerzem, Torba z tyrolką, portfel kryptowalut."
+		},
+		{
+			"name": "Galeria powierzchowności",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "zabezpieczenie łupów w śmietniku, Torba z tyrolką, dodatkowy kod QR.",
+			"recommendedLoudFavours": "Torba z pancerzem, szybszy śmigłowiec."
+		},
+		{
+			"name": "Gold & Sharke",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "dostęp do windy, święto w kawiarni, drzwi do kas.",
+			"recommendedLoudFavours": "Torba z pancerzem, części wiertła termicznego, Torba z tyrolką."
+		},
+		{
+			"name": "99 skrzyń",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "prototypowe torby, otwarty kontener.",
+			"recommendedLoudFavours": "Torba z pancerzem, zrzut termitu, otwarty kontener, prototypowe torby."
+		},
+		{
+			"name": "Sięgając nieba",
+			"levelSet": "Główne napady",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "środek wymiotny, ukryty termit.",
+			"recommendedLoudFavours": "Torba z pancerzem, Torba z tyrolką, ukryty termit."
+		},
+		{
+			"name": "Stacja Turbid",
+			"levelSet": "Napady dodatkowe",
+			"gameplayStyle": "Po cichu",
+			"recommendedStealthFavours": "Torba z tyrolką, mniej dronów, więcej czasu na zegarze zdalnie sterowanych drzwi, więcej wabików.",
+			"recommendedLoudFavours": "Nie dotyczy."
+		},
+		{
+			"name": "Wielkie gotowanie",
+			"levelSet": "Napady dodatkowe",
+			"gameplayStyle": "Na głośno",
+			"recommendedStealthFavours": "Nie dotyczy.",
+			"recommendedLoudFavours": "Torba z pancerzem, stale dostępny pojazd ucieczkowy, szybszy zrzut zaopatrzenia, więcej czasu na oczyszczenie metamfetaminy."
+		},
+		{
+			"name": "Diamentowa dzielnica",
+			"levelSet": "Napady dodatkowe",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "szybszy skaner biżuterii, przekupiony pracownik, dodatkowa bezpieczna strefa.",
+			"recommendedLoudFavours": "Torba z pancerzem, szybszy skaner biżuterii, dodatkowa bezpieczna strefa, policyjna furgonetka."
+		},
+		{
+			"name": "Błąd składniowy",
+			"levelSet": "Zepsute jabłko",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "Torba z tyrolką, zaprogramowane drony, dostępowy kod QR, usterka lasera bezpieczeństwa.",
+			"recommendedLoudFavours": "Torba z pancerzem, Torba z tyrolką, szybsza ucieczka helikopterem."
+		},
+		{
+			"name": "Niebieskie chłopaki",
+			"levelSet": "Zepsute jabłko",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "fałszywe telefony pod 911.",
+			"recommendedLoudFavours": "przekupiony mechanik, Torba z pancerzem."
+		},
+		{
+			"name": "Odbicie Houstona",
+			"levelSet": "Zepsute jabłko",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "legitymacja prasowa.",
+			"recommendedLoudFavours": "Torba z pancerzem."
+		},
+		{
+			"name": "Strach i chciwość",
+			"levelSet": "Zepsute jabłko",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "rozpoczęcie wewnątrz giełdy, przeniesieni maklerzy giełdowi.",
+			"recommendedLoudFavours": "kontrola nad okiennicami, Torba z pancerzem."
+		},
+		{
+			"name": "Pierwszy Bank Światowy",
+			"levelSet": "Napady dodatkowe",
+			"gameplayStyle": "Po cichu lub Na głośno",
+			"recommendedStealthFavours": "przepustka dla gości u kreta, zamek magnetyczny wyłączony, wykrywacze metalu wyłączone.",
+			"recommendedLoudFavours": "zrzut sprzętu w windzie, dodatkowe torby z termitem, Torba z pancerzem."
+		}
+	],
+	'levelSet': "ODPOWIEDNI ZESTAW POZIOMÓW",
+	'gameplayStyle': "STYL ROZGRYWKI",
+	'favourInfo': "POLECANE UPOMINKI",
+	'stealthFavours': "Po cichu: ",
+	'loudFavours': "Na głośno: "
 ]

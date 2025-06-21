@@ -1,114 +1,121 @@
 [
-	{
-		"name": "악당에게 안식은 없다",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "추가 전리품 확보 포인트, 키 카드 위치.",
-		"recommendedLoudFavours": "방탄복 가방, 추가 테르밋, 승합차가 떠나지 않음."
-	},
-	{
-		"name": "분노의 질주",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "라우드",
-		"recommendedStealthFavours": "해당 없음.",
-		"recommendedLoudFavours": "방탄복 가방, 잠긴 상자 열기, 추가 확보 포인트."
-	},
-	{
-		"name": "숨겨진 장물",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "직원용 출입구, 정신이 팔린 매니저.",
-		"recommendedLoudFavours": "방탄복 가방, 옥상 헬리콥터."
-	},
-	{
-		"name": "클럽을 뒤엎어라",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "금고 코드, 추가 키 카드.",
-		"recommendedLoudFavours": "방탄복 가방, 집라인 가방, 암호 화폐 지갑."
-	},
-	{
-		"name": "서페이즈 속으로",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "쓰레기통 확보 포인트, 집라인 가방, 추가 QR 키.",
-		"recommendedLoudFavours": "방탄복 가방, 빠른 헬기."
-	},
-	{
-		"name": "골드&샤크",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "엘리베이터 사용, 셀레브레이션 카페, 행원용 출입구.",
-		"recommendedLoudFavours": "방탄복 가방, 서멀 랜스 부품, 집라인 가방."
-	},
-	{
-		"name": "상자 99개",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "프로토타입 가방, 열린 컨테이너.",
-		"recommendedLoudFavours": "방탄복 가방, 테르밋 투하, 열린 컨테이너, 프로토타입 가방."
-	},
-	{
-		"name": "하늘 끝까지",
-		"levelSet": "주요 하이스트",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "구토 유발제, 숨겨진 테르밋.",
-		"recommendedLoudFavours": "방탄복 가방, 집라인 가방, 숨겨진 테르밋."
-	},
-	{
-		"name": "터비드 스테이션",
-		"levelSet": "부업",
-		"gameplayStyle": "스텔스",
-		"recommendedStealthFavours": "집라인 가방, 드론 숫자 감소, 원격 문 타이머 시간 증가, 미끼 추가.",
-		"recommendedLoudFavours": "해당 없음."
-	},
-	{
-		"name": "쿡 오프",
-		"levelSet": "부업",
-		"gameplayStyle": "라우드",
-		"recommendedStealthFavours": "해당 없음.",
-		"recommendedLoudFavours": "방탄복 가방, 탈출용 승합차 영구 배치, 더 빠른 물품 투하, 정제 가능 시간 증가."
-	},
-	{
-		"name": "다이아몬드 디스트릭트",
-		"levelSet": "부업",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "빠른 보석 스캐너, 내부 정보원, 전리품 보관 공간 추가.",
-		"recommendedLoudFavours": "방탄복 가방, 빠른 보석 스캐너, 전리품 보관 공간 추가, 경찰용 승합차."
-	},
-	{
-		"name": "구문 오류",
-		"levelSet": "문제적 인물",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "집라인 가방, 신호가 교란된 드론, QR 코드 출입, 보안 레이저 글리치.",
-		"recommendedLoudFavours": "방탄복 가방, 집라인 가방, 더 빠른 탈출 헬리콥터."
-	},
-	{
-		"name": "파란 제복의 남자들",
-		"levelSet": "문제적 인물",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "가짜 신고 전화.",
-		"recommendedLoudFavours": "정비사 매수, 방탄복 가방."
-	},
-	{
-		"name": "휴스턴 탈옥",
-		"levelSet": "문제적 인물",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "기자 출입증.",
-		"recommendedLoudFavours": "방탄복 가방."
-	},
-	{
-		"name": "두려움과 욕망",
-		"levelSet": "문제적 인물",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "거래소 내에서 시작, 전출된 주식 브로커.",
-		"recommendedLoudFavours": "셔터 제어 장치, 방탄복 가방."
-	},
-	{
-		"name": "퍼스트 월드 뱅크",
-		"levelSet": "부업",
-		"gameplayStyle": "스텔스 또는 라우드",
-		"recommendedStealthFavours": "내부 정보원의 방문객 출입증, 자기잠금장치 해제, 금속 탐지기 무력화.",
-		"recommendedLoudFavours": "엘리베이터 장비 투하, 테르밋 가방 추가, 방탄복 가방."
-	}
+	'heists': [
+		{
+			"name": "악당에게 안식은 없다",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "추가 전리품 확보 포인트, 키 카드 위치.",
+			"recommendedLoudFavours": "방탄복 가방, 추가 테르밋, 승합차가 떠나지 않음."
+		},
+		{
+			"name": "분노의 질주",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "라우드",
+			"recommendedStealthFavours": "해당 없음.",
+			"recommendedLoudFavours": "방탄복 가방, 잠긴 상자 열기, 추가 확보 포인트."
+		},
+		{
+			"name": "숨겨진 장물",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "직원용 출입구, 정신이 팔린 매니저.",
+			"recommendedLoudFavours": "방탄복 가방, 옥상 헬리콥터."
+		},
+		{
+			"name": "클럽을 뒤엎어라",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "금고 코드, 추가 키 카드.",
+			"recommendedLoudFavours": "방탄복 가방, 집라인 가방, 암호 화폐 지갑."
+		},
+		{
+			"name": "서페이즈 속으로",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "쓰레기통 확보 포인트, 집라인 가방, 추가 QR 키.",
+			"recommendedLoudFavours": "방탄복 가방, 빠른 헬기."
+		},
+		{
+			"name": "골드&샤크",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "엘리베이터 사용, 셀레브레이션 카페, 행원용 출입구.",
+			"recommendedLoudFavours": "방탄복 가방, 서멀 랜스 부품, 집라인 가방."
+		},
+		{
+			"name": "상자 99개",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "프로토타입 가방, 열린 컨테이너.",
+			"recommendedLoudFavours": "방탄복 가방, 테르밋 투하, 열린 컨테이너, 프로토타입 가방."
+		},
+		{
+			"name": "하늘 끝까지",
+			"levelSet": "주요 하이스트",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "구토 유발제, 숨겨진 테르밋.",
+			"recommendedLoudFavours": "방탄복 가방, 집라인 가방, 숨겨진 테르밋."
+		},
+		{
+			"name": "터비드 스테이션",
+			"levelSet": "부업",
+			"gameplayStyle": "스텔스",
+			"recommendedStealthFavours": "집라인 가방, 드론 숫자 감소, 원격 문 타이머 시간 증가, 미끼 추가.",
+			"recommendedLoudFavours": "해당 없음."
+		},
+		{
+			"name": "쿡 오프",
+			"levelSet": "부업",
+			"gameplayStyle": "라우드",
+			"recommendedStealthFavours": "해당 없음.",
+			"recommendedLoudFavours": "방탄복 가방, 탈출용 승합차 영구 배치, 더 빠른 물품 투하, 정제 가능 시간 증가."
+		},
+		{
+			"name": "다이아몬드 디스트릭트",
+			"levelSet": "부업",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "빠른 보석 스캐너, 내부 정보원, 전리품 보관 공간 추가.",
+			"recommendedLoudFavours": "방탄복 가방, 빠른 보석 스캐너, 전리품 보관 공간 추가, 경찰용 승합차."
+		},
+		{
+			"name": "구문 오류",
+			"levelSet": "문제적 인물",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "집라인 가방, 신호가 교란된 드론, QR 코드 출입, 보안 레이저 글리치.",
+			"recommendedLoudFavours": "방탄복 가방, 집라인 가방, 더 빠른 탈출 헬리콥터."
+		},
+		{
+			"name": "파란 제복의 남자들",
+			"levelSet": "문제적 인물",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "가짜 신고 전화.",
+			"recommendedLoudFavours": "정비사 매수, 방탄복 가방."
+		},
+		{
+			"name": "휴스턴 탈옥",
+			"levelSet": "문제적 인물",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "기자 출입증.",
+			"recommendedLoudFavours": "방탄복 가방."
+		},
+		{
+			"name": "두려움과 욕망",
+			"levelSet": "문제적 인물",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "거래소 내에서 시작, 전출된 주식 브로커.",
+			"recommendedLoudFavours": "셔터 제어 장치, 방탄복 가방."
+		},
+		{
+			"name": "퍼스트 월드 뱅크",
+			"levelSet": "부업",
+			"gameplayStyle": "스텔스 또는 라우드",
+			"recommendedStealthFavours": "내부 정보원의 방문객 출입증, 자기잠금장치 해제, 금속 탐지기 무력화.",
+			"recommendedLoudFavours": "엘리베이터 장비 투하, 테르밋 가방 추가, 방탄복 가방."
+		}
+	],
+	'levelSet': "각 레벨 세트",
+	'gameplayStyle': "게임플레이 스타일",
+	'favourInfo': "추천 호의",
+	'stealthFavours': "스텔스: ",
+	'loudFavours': "라우드: "
 ]

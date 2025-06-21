@@ -1,114 +1,121 @@
 [
-	{
-		"name": "悪人暇なし",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "戦利品の確保地点追加, キーカード所在地.",
-		"recommendedLoudFavours": "アーマーバッグ, サーマイト追加, バン停車."
-	},
-	{
-		"name": "ロード・レイジ",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ラウド",
-		"recommendedStealthFavours": "該当なし.",
-		"recommendedLoudFavours": "アーマーバッグ, 金庫解錠, 確保地点追加."
-	},
-	{
-		"name": "穢れたダイヤ",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "従業員用入口, 支配人の妨害.",
-		"recommendedLoudFavours": "アーマーバッグ, 屋上のヘリ."
-	},
-	{
-		"name": "揺りかごを揺らせ",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "金庫のコード, キーカード追加.",
-		"recommendedLoudFavours": "アーマーバッグ, ジップライン・バッグ, クリプトウォレット."
-	},
-	{
-		"name": "サーフェイズの舞台裏",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "ごみ箱の確保地点, ジップライン・バッグ, 二次元キー追加.",
-		"recommendedLoudFavours": "アーマーバッグ, ヘリ高速化."
-	},
-	{
-		"name": "ゴールド&シャーク",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "エレベーターアクセス, カフェ休憩, 窓口係用ドア.",
-		"recommendedLoudFavours": "アーマーバッグ, サーマルランス部品, ジップライン・バッグ."
-	},
-	{
-		"name": "99個の箱",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "プロトタイプバッグ, コンテナ開放.",
-		"recommendedLoudFavours": "アーマーバッグ, サーマイト投下, コンテナ開放, プロトタイプバッグ."
-	},
-	{
-		"name": "タッチ・ザ・スカイ",
-		"levelSet": "主要強盗作戦",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "嘔吐剤, 隠しサーマイト.",
-		"recommendedLoudFavours": "アーマーバッグ, ジップライン・バッグ, 隠しサーマイト."
-	},
-	{
-		"name": "タービド・ステーション",
-		"levelSet": "サイドビジネス",
-		"gameplayStyle": "ステルス",
-		"recommendedStealthFavours": "ジップライン・バッグ, ドローン減少, 遠隔ドアのタイマー延長, 囮増加.",
-		"recommendedLoudFavours": "該当なし."
-	},
-	{
-		"name": "クック・オフ",
-		"levelSet": "サイドビジネス",
-		"gameplayStyle": "ラウド",
-		"recommendedStealthFavours": "該当なし.",
-		"recommendedLoudFavours": "アーマーバッグ, 逃走用バン待機, 素早い物資投下, 高純度精製時間延長."
-	},
-	{
-		"name": "ダイヤモンド街",
-		"levelSet": "サイドビジネス",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "高速宝石スキャナー, 内通者, 安全地帯追加.",
-		"recommendedLoudFavours": "アーマーバッグ, 高速宝石スキャナー, 安全地帯追加, 警察車両."
-	},
-	{
-		"name": "構文エラー",
-		"levelSet": "バッド・アップル",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "ジップライン・バッグ, 攪乱されたドローン, 二次元コードアクセス, セキュリティレーザーの不具合.",
-		"recommendedLoudFavours": "アーマーバッグ, ジップライン・バッグ, 脱出用ヘリの高速化."
-	},
-	{
-		"name": "青い制服",
-		"levelSet": "バッド・アップル",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "嘘の911通報.",
-		"recommendedLoudFavours": "整備士への賄賂, アーマーバッグ."
-	},
-	{
-		"name": "ヒューストン脱走",
-		"levelSet": "バッド・アップル",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "記者証.",
-		"recommendedLoudFavours": "アーマーバッグ."
-	},
-	{
-		"name": "恐怖と欲望",
-		"levelSet": "バッド・アップル",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "取引所内からスタート, 証券会社社員の移動.",
-		"recommendedLoudFavours": "シャッターの操作, アーマーバッグ."
-	},
-	{
-		"name": "ファースト・ワールド・バンク",
-		"levelSet": "サイドビジネス",
-		"gameplayStyle": "ステルス 又は ラウド",
-		"recommendedStealthFavours": "内通者が持つビジターパス, 磁気ロック無効化済み, 金属探知機無効化済み.",
-		"recommendedLoudFavours": "エレベーターへ機材投下, 追加サーマイトバッグ, アーマーバッグ."
-	}
+	'heists': [
+		{
+			"name": "悪人暇なし",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "戦利品の確保地点追加, キーカード所在地.",
+			"recommendedLoudFavours": "アーマーバッグ, サーマイト追加, バン停車."
+		},
+		{
+			"name": "ロード・レイジ",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ラウド",
+			"recommendedStealthFavours": "該当なし.",
+			"recommendedLoudFavours": "アーマーバッグ, 金庫解錠, 確保地点追加."
+		},
+		{
+			"name": "穢れたダイヤ",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "従業員用入口, 支配人の妨害.",
+			"recommendedLoudFavours": "アーマーバッグ, 屋上のヘリ."
+		},
+		{
+			"name": "揺りかごを揺らせ",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "金庫のコード, キーカード追加.",
+			"recommendedLoudFavours": "アーマーバッグ, ジップライン・バッグ, クリプトウォレット."
+		},
+		{
+			"name": "サーフェイズの舞台裏",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "ごみ箱の確保地点, ジップライン・バッグ, 二次元キー追加.",
+			"recommendedLoudFavours": "アーマーバッグ, ヘリ高速化."
+		},
+		{
+			"name": "ゴールド&シャーク",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "エレベーターアクセス, カフェ休憩, 窓口係用ドア.",
+			"recommendedLoudFavours": "アーマーバッグ, サーマルランス部品, ジップライン・バッグ."
+		},
+		{
+			"name": "99個の箱",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "プロトタイプバッグ, コンテナ開放.",
+			"recommendedLoudFavours": "アーマーバッグ, サーマイト投下, コンテナ開放, プロトタイプバッグ."
+		},
+		{
+			"name": "タッチ・ザ・スカイ",
+			"levelSet": "主要強盗作戦",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "嘔吐剤, 隠しサーマイト.",
+			"recommendedLoudFavours": "アーマーバッグ, ジップライン・バッグ, 隠しサーマイト."
+		},
+		{
+			"name": "タービド・ステーション",
+			"levelSet": "サイドビジネス",
+			"gameplayStyle": "ステルス",
+			"recommendedStealthFavours": "ジップライン・バッグ, ドローン減少, 遠隔ドアのタイマー延長, 囮増加.",
+			"recommendedLoudFavours": "該当なし."
+		},
+		{
+			"name": "クック・オフ",
+			"levelSet": "サイドビジネス",
+			"gameplayStyle": "ラウド",
+			"recommendedStealthFavours": "該当なし.",
+			"recommendedLoudFavours": "アーマーバッグ, 逃走用バン待機, 素早い物資投下, 高純度精製時間延長."
+		},
+		{
+			"name": "ダイヤモンド街",
+			"levelSet": "サイドビジネス",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "高速宝石スキャナー, 内通者, 安全地帯追加.",
+			"recommendedLoudFavours": "アーマーバッグ, 高速宝石スキャナー, 安全地帯追加, 警察車両."
+		},
+		{
+			"name": "構文エラー",
+			"levelSet": "バッド・アップル",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "ジップライン・バッグ, 攪乱されたドローン, 二次元コードアクセス, セキュリティレーザーの不具合.",
+			"recommendedLoudFavours": "アーマーバッグ, ジップライン・バッグ, 脱出用ヘリの高速化."
+		},
+		{
+			"name": "青い制服",
+			"levelSet": "バッド・アップル",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "嘘の911通報.",
+			"recommendedLoudFavours": "整備士への賄賂, アーマーバッグ."
+		},
+		{
+			"name": "ヒューストン脱走",
+			"levelSet": "バッド・アップル",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "記者証.",
+			"recommendedLoudFavours": "アーマーバッグ."
+		},
+		{
+			"name": "恐怖と欲望",
+			"levelSet": "バッド・アップル",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "取引所内からスタート, 証券会社社員の移動.",
+			"recommendedLoudFavours": "シャッターの操作, アーマーバッグ."
+		},
+		{
+			"name": "ファースト・ワールド・バンク",
+			"levelSet": "サイドビジネス",
+			"gameplayStyle": "ステルス 又は ラウド",
+			"recommendedStealthFavours": "内通者が持つビジターパス, 磁気ロック無効化済み, 金属探知機無効化済み.",
+			"recommendedLoudFavours": "エレベーターへ機材投下, 追加サーマイトバッグ, アーマーバッグ."
+		}
+	],
+	'levelSet': "それぞれのレベルセット",
+	'gameplayStyle': "ゲームプレイスタイル",
+	'favourInfo': "推奨される好意",
+	'stealthFavours': "ステルス: ",
+	'loudFavours': "ラウド: "
 ]

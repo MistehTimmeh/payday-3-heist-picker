@@ -1,7 +1,3 @@
-//test if headers need to be regen'd
-//test if parent needs to be wiped, or just random box
-//double check json files for mistakes (german stealth)
-
 let availableLanguages = ['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt', 'ru', 'tr', 'zh']
 let lang = navigator.language.substring(0,2);
 let oldNumber = -1;
@@ -52,7 +48,7 @@ function regen(heistNumber) {
 	
 	let levelSetHeadingP = document.createElement('p');
 	levelSetHeadingP.className = 'heading';
-	levelSetHeadingP.textContent = 'RESPECTIVE LEVEL SET';
+	levelSetHeadingP.textContent = heistInfo['levelSet'];
 	
 	let levelSetValueP = document.createElement('p');
 	levelSetValueP.className = 'fade-in-anim';
@@ -63,7 +59,7 @@ function regen(heistNumber) {
 	
 	let gameplayStyleHeadingP = document.createElement('p');
 	gameplayStyleHeadingP.className = 'heading';
-	gameplayStyleHeadingP.textContent = 'GAMEPLAY STYLE';
+	gameplayStyleHeadingP.textContent = heistInfo['gameplayStyle'];
 	
 	let gameplayStyleValueP = document.createElement('p');
 	gameplayStyleValueP.className = 'fade-in-anim';
@@ -74,7 +70,7 @@ function regen(heistNumber) {
 	
 	let favourInfoHeadingP = document.createElement('p');
 	favourInfoHeadingP.className = 'heading';
-	favourInfoHeadingP.textContent = 'RECOMMENDED FAVOURS';
+	favourInfoHeadingP.textContent = heistInfo['favourInfo'];
 	
 	let stealthFavoursP = document.createElement('p');
 	stealthFavoursP.className = 'fade-in-anim';
@@ -85,11 +81,11 @@ function regen(heistNumber) {
 	
 	oldNumber = heistNumber;
 	
-	heistNameP.textContent = heistInfo['name'];
-	levelSetValueP.textContent = heistInfo['levelSet'];
-	gameplayStyleValueP.textContent = heistInfo['gameplayStyle'];
-	stealthFavoursP.textContent = "Stealth: " + heistInfo['recommendedStealthFavours'];
-	loudFavoursP.textContent = "Loud: " + heistInfo['recommendedLoudFavours'];
+	heistNameP.textContent = heistInfo['heists']['name'];
+	levelSetValueP.textContent = heistInfo['heists']['levelSet'];
+	gameplayStyleValueP.textContent = heistInfo['heists']['gameplayStyle'];
+	stealthFavoursP.textContent = heistInfo['stealthFavours'] + heistInfo['heists']['recommendedStealthFavours'];
+	loudFavoursP.textContent = heistInfo['loudFavours'] + heistInfo['heists']['recommendedLoudFavours'];
 	
 	parent.innerHTML = '';
 	

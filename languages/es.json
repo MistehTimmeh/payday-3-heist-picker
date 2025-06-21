@@ -1,114 +1,121 @@
 [
-	{
-		"name": "No hay paz para los impíos",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Pto. para asegurar botín extra, Ubicación de tarjeta.",
-		"recommendedLoudFavours": "Bolsa de armadura, Termita extra, La furgo no se irá."
-	},
-	{
-		"name": "Furia de la Carretera",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Bullicioso",
-		"recommendedStealthFavours": "No aplicable.",
-		"recommendedLoudFavours": "Bolsa de armadura, Cajas abiertas, Pto. seguro extra."
-	},
-	{
-		"name": "Diamantes Sucios",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Entrada de empleados, Gerente distraída.",
-		"recommendedLoudFavours": "Bolsa de armadura, Helicóptero en azotea."
-	},
-	{
-		"name": "Movidón en el Cradle",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Código de acceso a cámara, Tarjeta extra.",
-		"recommendedLoudFavours": "Bolsa de armadura, Bolsa de tirolina, Criptocartera."
-	},
-	{
-		"name": "Bajo el Surphaze",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Pto. seguro en contenedor, Bolsa de tirolina, Llave QR extra.",
-		"recommendedLoudFavours": "Bolsa de armadura, Helicóptero más rápido."
-	},
-	{
-		"name": "Gold & Sharke",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Acceso al ascensor, Celebración en cafetería, Una puerta a los cajeros estará abierta.",
-		"recommendedLoudFavours": "Bolsa de armadura, Piezas de lanza térmica, Bolsa de tirolina."
-	},
-	{
-		"name": "99 Cajas",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Bolsas prototipo, Contenedor abierto.",
-		"recommendedLoudFavours": "Bolsa de armadura, Envío de termita, Contenedor abierto, Bolsas prototipo."
-	},
-	{
-		"name": "Tocar el cielo",
-		"levelSet": "Trabajos principales",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Agente vomitivo, Plataforma del limpia ventanas.",
-		"recommendedLoudFavours": "Bolsa de armadura, Bolsa de tirolina, Plataforma del limpia ventanas."
-	},
-	{
-		"name": "Estación Turbid",
-		"levelSet": "Trabajitos extra",
-		"gameplayStyle": "Sigilo",
-		"recommendedStealthFavours": "Bolsa de tirolina, Menos drones, + tiempo puerta, Más señuelos.",
-		"recommendedLoudFavours": "No aplicable."
-	},
-	{
-		"name": "Cocineros",
-		"levelSet": "Trabajitos extra",
-		"gameplayStyle": "Bullicioso",
-		"recommendedStealthFavours": "No aplicable.",
-		"recommendedLoudFavours": "Bolsa de armadura, Furgoneta permanente, Envío más rápido, + tiempo de purif."
-	},
-	{
-		"name": "Distrito de diamantes",
-		"levelSet": "Trabajitos extra",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Escáner de joyas más rápido, Hombre en el interior, Zona segura adicional.",
-		"recommendedLoudFavours": "Bolsa de armadura, Escáner de joyas más rápido, Zona segura adicional, Furgón policial."
-	},
-	{
-		"name": "Error de sintaxis",
-		"levelSet": "La manzana podrida",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Bolsa de tirolina, Drones hackeados, Acc. cód. QR, Fallo láser.",
-		"recommendedLoudFavours": "Bolsa de armadura, Bolsa de tirolina, Heli. veloz."
-	},
-	{
-		"name": "Los chicos de azul",
-		"levelSet": "La manzana podrida",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Llamadas falsas.",
-		"recommendedLoudFavours": "Soborno al mecánico, Bolsa de armadura."
-	},
-	{
-		"name": "La fuga de Houston",
-		"levelSet": "La manzana podrida",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Pase de prensa.",
-		"recommendedLoudFavours": "Bolsa de armadura."
-	},
-	{
-		"name": "Temor y codicia",
-		"levelSet": "La manzana podrida",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Comenzar dentro de la Bolsa, Corredores de Bolsa reubicados.",
-		"recommendedLoudFavours": "Control de barrotes, Bolsa de armadura."
-	},
-	{
-		"name": "PBM",
-		"levelSet": "Trabajitos extra",
-		"gameplayStyle": "Sigilo o Bullicioso",
-		"recommendedStealthFavours": "Infiltrado con pases de visitante, Cerrojo magnético desactivado, Detectores de metal desactivados.",
-		"recommendedLoudFavours": "Envío de equipo por ascensor, Bolsas de termita extra, Bolsa de armadura."
-	}
+	'heists': [
+		{
+			"name": "No hay paz para los impíos",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Pto. para asegurar botín extra, Ubicación de tarjeta.",
+			"recommendedLoudFavours": "Bolsa de armadura, Termita extra, La furgo no se irá."
+		},
+		{
+			"name": "Furia de la Carretera",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Bullicioso",
+			"recommendedStealthFavours": "No aplicable.",
+			"recommendedLoudFavours": "Bolsa de armadura, Cajas abiertas, Pto. seguro extra."
+		},
+		{
+			"name": "Diamantes Sucios",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Entrada de empleados, Gerente distraída.",
+			"recommendedLoudFavours": "Bolsa de armadura, Helicóptero en azotea."
+		},
+		{
+			"name": "Movidón en el Cradle",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Código de acceso a cámara, Tarjeta extra.",
+			"recommendedLoudFavours": "Bolsa de armadura, Bolsa de tirolina, Criptocartera."
+		},
+		{
+			"name": "Bajo el Surphaze",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Pto. seguro en contenedor, Bolsa de tirolina, Llave QR extra.",
+			"recommendedLoudFavours": "Bolsa de armadura, Helicóptero más rápido."
+		},
+		{
+			"name": "Gold & Sharke",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Acceso al ascensor, Celebración en cafetería, Una puerta a los cajeros estará abierta.",
+			"recommendedLoudFavours": "Bolsa de armadura, Piezas de lanza térmica, Bolsa de tirolina."
+		},
+		{
+			"name": "99 Cajas",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Bolsas prototipo, Contenedor abierto.",
+			"recommendedLoudFavours": "Bolsa de armadura, Envío de termita, Contenedor abierto, Bolsas prototipo."
+		},
+		{
+			"name": "Tocar el cielo",
+			"levelSet": "Trabajos principales",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Agente vomitivo, Plataforma del limpia ventanas.",
+			"recommendedLoudFavours": "Bolsa de armadura, Bolsa de tirolina, Plataforma del limpia ventanas."
+		},
+		{
+			"name": "Estación Turbid",
+			"levelSet": "Trabajitos extra",
+			"gameplayStyle": "Sigilo",
+			"recommendedStealthFavours": "Bolsa de tirolina, Menos drones, + tiempo puerta, Más señuelos.",
+			"recommendedLoudFavours": "No aplicable."
+		},
+		{
+			"name": "Cocineros",
+			"levelSet": "Trabajitos extra",
+			"gameplayStyle": "Bullicioso",
+			"recommendedStealthFavours": "No aplicable.",
+			"recommendedLoudFavours": "Bolsa de armadura, Furgoneta permanente, Envío más rápido, + tiempo de purif."
+		},
+		{
+			"name": "Distrito de diamantes",
+			"levelSet": "Trabajitos extra",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Escáner de joyas más rápido, Hombre en el interior, Zona segura adicional.",
+			"recommendedLoudFavours": "Bolsa de armadura, Escáner de joyas más rápido, Zona segura adicional, Furgón policial."
+		},
+		{
+			"name": "Error de sintaxis",
+			"levelSet": "La manzana podrida",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Bolsa de tirolina, Drones hackeados, Acc. cód. QR, Fallo láser.",
+			"recommendedLoudFavours": "Bolsa de armadura, Bolsa de tirolina, Heli. veloz."
+		},
+		{
+			"name": "Los chicos de azul",
+			"levelSet": "La manzana podrida",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Llamadas falsas.",
+			"recommendedLoudFavours": "Soborno al mecánico, Bolsa de armadura."
+		},
+		{
+			"name": "La fuga de Houston",
+			"levelSet": "La manzana podrida",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Pase de prensa.",
+			"recommendedLoudFavours": "Bolsa de armadura."
+		},
+		{
+			"name": "Temor y codicia",
+			"levelSet": "La manzana podrida",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Comenzar dentro de la Bolsa, Corredores de Bolsa reubicados.",
+			"recommendedLoudFavours": "Control de barrotes, Bolsa de armadura."
+		},
+		{
+			"name": "PBM",
+			"levelSet": "Trabajitos extra",
+			"gameplayStyle": "Sigilo o Bullicioso",
+			"recommendedStealthFavours": "Infiltrado con pases de visitante, Cerrojo magnético desactivado, Detectores de metal desactivados.",
+			"recommendedLoudFavours": "Envío de equipo por ascensor, Bolsas de termita extra, Bolsa de armadura."
+		}
+	],
+	'levelSet': "CONJUNTO DE NIVELES RESPECTIVO",
+	'gameplayStyle': "ESTILO DE JUEGO",
+	'favourInfo': "FAVORES RECOMENDADOS",
+	'stealthFavours': "Sigilo: ",
+	'loudFavours': "Bullicioso: "
 ]

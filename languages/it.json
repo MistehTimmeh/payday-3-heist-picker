@@ -1,114 +1,121 @@
 [
-	{
-		"name": "I cattivi non dormono mai",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Punto sicuro aggiuntivo, Scheda magnetica.",
-		"recommendedLoudFavours": "Borsa per armatura, Termite aggiuntiva, Il furgone non se ne andrà."
-	},
-	{
-		"name": "Guida pericolosa",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Approccio Diretto",
-		"recommendedStealthFavours": "Not applicable.",
-		"recommendedLoudFavours": "Borsa per armatura, Cassette sbloccate, Punto sicuro aggiuntivo."
-	},
-	{
-		"name": "Diamanti sporchi",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Entrata per i dipendenti, Direttrice distratta.",
-		"recommendedLoudFavours": "Borsa per armatura, Elicottero sul tetto."
-	},
-	{
-		"name": "Assalto alla Culla",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Codice d'accesso al caveau, Scheda magnetica aggiuntiva.",
-		"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Wallet."
-	},
-	{
-		"name": "Impara l'arte e... prendila",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Punto sicuro in un cassonetto, Borsone teleferica, Codice QR aggiuntivo.",
-		"recommendedLoudFavours": "Borsa per armatura, Elicottero più veloce."
-	},
-	{
-		"name": "Gold & Sharke",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Accesso all'ascensore, Festa al bar, Porta per le casse.",
-		"recommendedLoudFavours": "Borsa per armatura, Parti del trapano termico, Borsone teleferica."
-	},
-	{
-		"name": "99 Container",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Borsoni di componenti, Container aperto.",
-		"recommendedLoudFavours": "Borsa per armatura, Consegna di termite, Container aperto, Borsoni di componenti."
-	},
-	{
-		"name": "A un passo dal cielo",
-		"levelSet": "Colpi core",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Emetico, Termite nascosta.",
-		"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Termite nascosta."
-	},
-	{
-		"name": "Stazione Turbid",
-		"levelSet": "Lavori secondari",
-		"gameplayStyle": "Furtività",
-		"recommendedStealthFavours": "Borsone teleferica, Meno droni, Timer della porta remota prolungato, Più esche.",
-		"recommendedLoudFavours": "Not applicable."
-	},
-	{
-		"name": "Ladri in cucina",
-		"levelSet": "Lavori secondari",
-		"gameplayStyle": "Approccio Diretto",
-		"recommendedStealthFavours": "Not applicable.",
-		"recommendedLoudFavours": "Borsa per armatura, Furgone per la fuga permanente, Consegna dei rifornimenti più rapida, Più tempo per la purificazione."
-	},
-	{
-		"name": "Diamond District",
-		"levelSet": "Lavori secondari",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Scanner più veloce, Caveau aperto, Zona libera aggiuntiva.",
-		"recommendedLoudFavours": "Borsa per armatura, Scanner più veloce, Zona libera aggiuntiva, Furgone della polizia."
-	},
-	{
-		"name": "Syntax error",
-		"levelSet": "La mela marcia",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Borsone teleferica, Segnale di disturbo per droni, Accesso con codice QR, Glitch nei laser di sicurezza.",
-		"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Fuga con l'elicottero più rapida."
-	},
-	{
-		"name": "Riappropriazione indebita",
-		"levelSet": "La mela marcia",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Chiamate al 911 finte.",
-		"recommendedLoudFavours": "Mazzetta al meccanico, Borsa per armatura."
-	},
-	{
-		"name": "Evasione di Houston",
-		"levelSet": "La mela marcia",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Credenziali della stampa.",
-		"recommendedLoudFavours": "Borsa per armatura."
-	},
-	{
-		"name": "Paura e avidità",
-		"levelSet": "La mela marcia",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Inizio all'interno della Borsa, Posizione dei broker modificata.",
-		"recommendedLoudFavours": "Comandi delle saracinesche, Borsa per armatura."
-	},
-	{
-		"name": "Prima banca mondiale",
-		"levelSet": "Lavori secondari",
-		"gameplayStyle": "Furtività o Approccio Diretto",
-		"recommendedStealthFavours": "Pass visitatori dall'infiltrato, Serratura magnetica disattivata, Metal detector disattivati.",
-		"recommendedLoudFavours": "Attrezzatura in ascensore, Termite extra, Borsa per armatura."
-	}
+	'heists': [
+		{
+			"name": "I cattivi non dormono mai",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Punto sicuro aggiuntivo, Scheda magnetica.",
+			"recommendedLoudFavours": "Borsa per armatura, Termite aggiuntiva, Il furgone non se ne andrà."
+		},
+		{
+			"name": "Guida pericolosa",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Approccio Diretto",
+			"recommendedStealthFavours": "Not applicable.",
+			"recommendedLoudFavours": "Borsa per armatura, Cassette sbloccate, Punto sicuro aggiuntivo."
+		},
+		{
+			"name": "Diamanti sporchi",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Entrata per i dipendenti, Direttrice distratta.",
+			"recommendedLoudFavours": "Borsa per armatura, Elicottero sul tetto."
+		},
+		{
+			"name": "Assalto alla Culla",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Codice d'accesso al caveau, Scheda magnetica aggiuntiva.",
+			"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Wallet."
+		},
+		{
+			"name": "Impara l'arte e... prendila",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Punto sicuro in un cassonetto, Borsone teleferica, Codice QR aggiuntivo.",
+			"recommendedLoudFavours": "Borsa per armatura, Elicottero più veloce."
+		},
+		{
+			"name": "Gold & Sharke",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Accesso all'ascensore, Festa al bar, Porta per le casse.",
+			"recommendedLoudFavours": "Borsa per armatura, Parti del trapano termico, Borsone teleferica."
+		},
+		{
+			"name": "99 Container",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Borsoni di componenti, Container aperto.",
+			"recommendedLoudFavours": "Borsa per armatura, Consegna di termite, Container aperto, Borsoni di componenti."
+		},
+		{
+			"name": "A un passo dal cielo",
+			"levelSet": "Colpi core",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Emetico, Termite nascosta.",
+			"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Termite nascosta."
+		},
+		{
+			"name": "Stazione Turbid",
+			"levelSet": "Lavori secondari",
+			"gameplayStyle": "Furtività",
+			"recommendedStealthFavours": "Borsone teleferica, Meno droni, Timer della porta remota prolungato, Più esche.",
+			"recommendedLoudFavours": "Not applicable."
+		},
+		{
+			"name": "Ladri in cucina",
+			"levelSet": "Lavori secondari",
+			"gameplayStyle": "Approccio Diretto",
+			"recommendedStealthFavours": "Not applicable.",
+			"recommendedLoudFavours": "Borsa per armatura, Furgone per la fuga permanente, Consegna dei rifornimenti più rapida, Più tempo per la purificazione."
+		},
+		{
+			"name": "Diamond District",
+			"levelSet": "Lavori secondari",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Scanner più veloce, Caveau aperto, Zona libera aggiuntiva.",
+			"recommendedLoudFavours": "Borsa per armatura, Scanner più veloce, Zona libera aggiuntiva, Furgone della polizia."
+		},
+		{
+			"name": "Syntax error",
+			"levelSet": "La mela marcia",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Borsone teleferica, Segnale di disturbo per droni, Accesso con codice QR, Glitch nei laser di sicurezza.",
+			"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Fuga con l'elicottero più rapida."
+		},
+		{
+			"name": "Riappropriazione indebita",
+			"levelSet": "La mela marcia",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Chiamate al 911 finte.",
+			"recommendedLoudFavours": "Mazzetta al meccanico, Borsa per armatura."
+		},
+		{
+			"name": "Evasione di Houston",
+			"levelSet": "La mela marcia",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Credenziali della stampa.",
+			"recommendedLoudFavours": "Borsa per armatura."
+		},
+		{
+			"name": "Paura e avidità",
+			"levelSet": "La mela marcia",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Inizio all'interno della Borsa, Posizione dei broker modificata.",
+			"recommendedLoudFavours": "Comandi delle saracinesche, Borsa per armatura."
+		},
+		{
+			"name": "Prima banca mondiale",
+			"levelSet": "Lavori secondari",
+			"gameplayStyle": "Furtività o Approccio Diretto",
+			"recommendedStealthFavours": "Pass visitatori dall'infiltrato, Serratura magnetica disattivata, Metal detector disattivati.",
+			"recommendedLoudFavours": "Attrezzatura in ascensore, Termite extra, Borsa per armatura."
+		}
+	],
+	'levelSet': "RISPETTIVO SET DI LIVELLI",
+	'gameplayStyle': "STILE DI GIOCO",
+	'favourInfo': "BOMBONIERE CONSIGLIATE",
+	'stealthFavours': "Furtività: ",
+	'loudFavours': "Approccio Diretto: "
 ]

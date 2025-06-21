@@ -1,114 +1,121 @@
 [
-	{
-		"name": "Şeytan Azapta Gerek",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "İlave ganimet saklama noktası, Giriş Kartı Konumu.",
-		"recommendedLoudFavours": "Zırh Çantası, İlave Termit, Minibüs ayrılmayacak."
-	},
-	{
-		"name": "Yol Öfkesi",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Uygulanamaz.",
-		"recommendedLoudFavours": "Zırh Çantası, Açılmış kilitli kutular, İlave Saklama Noktası."
-	},
-	{
-		"name": "Kirli Buz",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Personel Girişi, Dikkati Dağınık Müdür.",
-		"recommendedLoudFavours": "Zırh Çantası, Çatıda helikopter."
-	},
-	{
-		"name": "Beşiği Salla",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Kasa Kodu Erişimi, İlave Giriş Kartı.",
-		"recommendedLoudFavours": "Zırh Çantası, Halat Çantası, Kripto Cüzdanı."
-	},
-	{
-		"name": "Surphaze Altında",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Çöplük saklama noktası, Halat Çantası, İlave QR kodu.",
-		"recommendedLoudFavours": "Zırh Çantası, Hızlı Helikopter."
-	},
-	{
-		"name": "Gold & Sharke",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Asansör Erişimi, Kafe Kutlaması, Veznedar Kapısı.",
-		"recommendedLoudFavours": "Zırh Çantası, Termal Keski Parçaları, Halat Çantası."
-	},
-	{
-		"name": "99 Kutu",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Prototip Çantaları, Açık Konteyner.",
-		"recommendedLoudFavours": "Zırh Çantası, Termit Bırakma, Açık Konteyner, Prototip Çantaları."
-	},
-	{
-		"name": "Gökyüzüne Dokun",
-		"levelSet": "Çekirdek Soygunlar",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Kusturucu Madde, Gizlenmiş Termit.",
-		"recommendedLoudFavours": "Zırh Çantası, Halat Çantası, Gizlenmiş Termit."
-	},
-	{
-		"name": "Dolaşık İstasyon",
-		"levelSet": "Yan İşler",
-		"gameplayStyle": "GİZLİ",
-		"recommendedStealthFavours": "Halat Çantası, Daha Az Dron, Daha Uzun Kapı Süresi, Daha Fazla Dikkat Dağıtıcı.",
-		"recommendedLoudFavours": "Uygulanamaz."
-	},
-	{
-		"name": "Pişirme",
-		"levelSet": "Yan İşler",
-		"gameplayStyle": "GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Uygulanamaz.",
-		"recommendedLoudFavours": "Zırh Çantası, Kalıcı Kaçış Minibüsü, Daha Hızlı Teslimat, Daha Uzun Saflık Süresi."
-	},
-	{
-		"name": "Elmas Bölgesi",
-		"levelSet": "Yan İşler",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Daha Hızlı Mücevher Tarayıcı, İçerideki Adam, Ek Güvenli Alan.",
-		"recommendedLoudFavours": "Zırh Çantası, Daha Hızlı Mücevher Tarayıcı, Ek Güvenli Alan, Polis Minibüsü."
-	},
-	{
-		"name": "Sözdizimi Hatası",
-		"levelSet": "Çürük Elma",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Halat Çantası, Bozulmuş Dronlar, QR Kodu Erişimi, Güvenlik Lazeri Arızası.",
-		"recommendedLoudFavours": "Zırh Çantası, Halat Çantası, Daha Hızlı Kaçış Helikopteri."
-	},
-	{
-		"name": "Mavili Çocuklar",
-		"levelSet": "Çürük Elma",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Sahte 911 Çağrıları.",
-		"recommendedLoudFavours": "Tamirci Rüşveti, Zırh Çantası."
-	},
-	{
-		"name": "Houston Firarda",
-		"levelSet": "Çürük Elma",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Basın Kartı.",
-		"recommendedLoudFavours": "Zırh Çantası."
-	},
-	{
-		"name": "Korku ve Açgözlülük",
-		"levelSet": "Çürük Elma",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "Borsa'nın İçinde Başlama, Yeri Değiştirilmiş Borsacılar.",
-		"recommendedLoudFavours": "Kepenk Kontrolü, Zırh Çantası."
-	},
-	{
-		"name": "İlk Dünya Bankası",
-		"levelSet": "Yan İşler",
-		"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-		"recommendedStealthFavours": "İçerideki adama ziyaretçi geçişi, Devre dışı bırakılmış manyetik kilit, Devre dışı bırakılmış metal dedektörleri.",
-		"recommendedLoudFavours": "Asansörden ekipman teslimatı, İlave termit çantaları, Zırh Çantası."
-	}
+	'heists': [
+		{
+			"name": "Şeytan Azapta Gerek",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "İlave ganimet saklama noktası, Giriş Kartı Konumu.",
+			"recommendedLoudFavours": "Zırh Çantası, İlave Termit, Minibüs ayrılmayacak."
+		},
+		{
+			"name": "Yol Öfkesi",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Uygulanamaz.",
+			"recommendedLoudFavours": "Zırh Çantası, Açılmış kilitli kutular, İlave Saklama Noktası."
+		},
+		{
+			"name": "Kirli Buz",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Personel Girişi, Dikkati Dağınık Müdür.",
+			"recommendedLoudFavours": "Zırh Çantası, Çatıda helikopter."
+		},
+		{
+			"name": "Beşiği Salla",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Kasa Kodu Erişimi, İlave Giriş Kartı.",
+			"recommendedLoudFavours": "Zırh Çantası, Halat Çantası, Kripto Cüzdanı."
+		},
+		{
+			"name": "Surphaze Altında",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Çöplük saklama noktası, Halat Çantası, İlave QR kodu.",
+			"recommendedLoudFavours": "Zırh Çantası, Hızlı Helikopter."
+		},
+		{
+			"name": "Gold & Sharke",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Asansör Erişimi, Kafe Kutlaması, Veznedar Kapısı.",
+			"recommendedLoudFavours": "Zırh Çantası, Termal Keski Parçaları, Halat Çantası."
+		},
+		{
+			"name": "99 Kutu",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Prototip Çantaları, Açık Konteyner.",
+			"recommendedLoudFavours": "Zırh Çantası, Termit Bırakma, Açık Konteyner, Prototip Çantaları."
+		},
+		{
+			"name": "Gökyüzüne Dokun",
+			"levelSet": "Çekirdek Soygunlar",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Kusturucu Madde, Gizlenmiş Termit.",
+			"recommendedLoudFavours": "Zırh Çantası, Halat Çantası, Gizlenmiş Termit."
+		},
+		{
+			"name": "Dolaşık İstasyon",
+			"levelSet": "Yan İşler",
+			"gameplayStyle": "GİZLİ",
+			"recommendedStealthFavours": "Halat Çantası, Daha Az Dron, Daha Uzun Kapı Süresi, Daha Fazla Dikkat Dağıtıcı.",
+			"recommendedLoudFavours": "Uygulanamaz."
+		},
+		{
+			"name": "Pişirme",
+			"levelSet": "Yan İşler",
+			"gameplayStyle": "GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Uygulanamaz.",
+			"recommendedLoudFavours": "Zırh Çantası, Kalıcı Kaçış Minibüsü, Daha Hızlı Teslimat, Daha Uzun Saflık Süresi."
+		},
+		{
+			"name": "Elmas Bölgesi",
+			"levelSet": "Yan İşler",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Daha Hızlı Mücevher Tarayıcı, İçerideki Adam, Ek Güvenli Alan.",
+			"recommendedLoudFavours": "Zırh Çantası, Daha Hızlı Mücevher Tarayıcı, Ek Güvenli Alan, Polis Minibüsü."
+		},
+		{
+			"name": "Sözdizimi Hatası",
+			"levelSet": "Çürük Elma",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Halat Çantası, Bozulmuş Dronlar, QR Kodu Erişimi, Güvenlik Lazeri Arızası.",
+			"recommendedLoudFavours": "Zırh Çantası, Halat Çantası, Daha Hızlı Kaçış Helikopteri."
+		},
+		{
+			"name": "Mavili Çocuklar",
+			"levelSet": "Çürük Elma",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Sahte 911 Çağrıları.",
+			"recommendedLoudFavours": "Tamirci Rüşveti, Zırh Çantası."
+		},
+		{
+			"name": "Houston Firarda",
+			"levelSet": "Çürük Elma",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Basın Kartı.",
+			"recommendedLoudFavours": "Zırh Çantası."
+		},
+		{
+			"name": "Korku ve Açgözlülük",
+			"levelSet": "Çürük Elma",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "Borsa'nın İçinde Başlama, Yeri Değiştirilmiş Borsacılar.",
+			"recommendedLoudFavours": "Kepenk Kontrolü, Zırh Çantası."
+		},
+		{
+			"name": "İlk Dünya Bankası",
+			"levelSet": "Yan İşler",
+			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
+			"recommendedStealthFavours": "İçerideki adama ziyaretçi geçişi, Devre dışı bırakılmış manyetik kilit, Devre dışı bırakılmış metal dedektörleri.",
+			"recommendedLoudFavours": "Asansörden ekipman teslimatı, İlave termit çantaları, Zırh Çantası."
+		}
+	],
+	'levelSet': "İLGİLİ SEVİYE SETİ",
+	'gameplayStyle': "OYNANIŞ STİLİ",
+	'favourInfo': "ÖNERİLEN İYİLİK NOKTALARI",
+	'stealthFavours': "GİZLİ: ",
+	'loudFavours': "GÜRÜLTÜLÜ: "
 ]
