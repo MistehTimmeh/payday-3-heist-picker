@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "相应的级别设置",
+	'gameplayStyle': "游戏风格",
+	'favourInfo': "推荐优惠",
+	'stealthFavours': "潜行: ",
+	'loudFavours': "强袭奖励: ",
 	'heists': [
 		{
 			"name": "恶者不息",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "内线给予的访客通行证, 已禁用磁锁, 已关闭金属探测器.",
 			"recommendedLoudFavours": "电梯装备掉落, 额外的铝热剂袋, 护甲箱."
 		}
-	],
-	'levelSet': "相应的级别设置",
-	'gameplayStyle': "游戏风格",
-	'favourInfo': "推荐优惠",
-	'stealthFavours': "潜行: ",
-	'loudFavours': "强袭奖励: "
-]
+	]
+}

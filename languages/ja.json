@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "それぞれのレベルセット",
+	'gameplayStyle': "ゲームプレイスタイル",
+	'favourInfo': "推奨される好意",
+	'stealthFavours': "ステルス: ",
+	'loudFavours': "ラウド: ",
 	'heists': [
 		{
 			"name": "悪人暇なし",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "内通者が持つビジターパス, 磁気ロック無効化済み, 金属探知機無効化済み.",
 			"recommendedLoudFavours": "エレベーターへ機材投下, 追加サーマイトバッグ, アーマーバッグ."
 		}
-	],
-	'levelSet': "それぞれのレベルセット",
-	'gameplayStyle': "ゲームプレイスタイル",
-	'favourInfo': "推奨される好意",
-	'stealthFavours': "ステルス: ",
-	'loudFavours': "ラウド: "
-]
+	]
+}

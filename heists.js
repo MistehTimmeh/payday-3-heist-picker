@@ -5,8 +5,8 @@ let heists = {
 	"levelSet": "RESPECTIVE LEVEL SET",
 	"gameplayStyle": "GAMEPLAY STYLE",
 	"favourInfo": "RECOMMENDED FAVOURS",
-	"stealthFavours": "Stealth: ",
-	"loudFavours": "Loud: ",
+	"stealthFavours": "",
+	"loudFavours": "",
 	"heists": [
 		{
 			"name": "Pick a new heist",

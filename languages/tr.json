@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "İLGİLİ SEVİYE SETİ",
+	'gameplayStyle': "OYNANIŞ STİLİ",
+	'favourInfo': "ÖNERİLEN İYİLİK NOKTALARI",
+	'stealthFavours': "GİZLİ: ",
+	'loudFavours': "GÜRÜLTÜLÜ: ",
 	'heists': [
 		{
 			"name": "Şeytan Azapta Gerek",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "İçerideki adama ziyaretçi geçişi, Devre dışı bırakılmış manyetik kilit, Devre dışı bırakılmış metal dedektörleri.",
 			"recommendedLoudFavours": "Asansörden ekipman teslimatı, İlave termit çantaları, Zırh Çantası."
 		}
-	],
-	'levelSet': "İLGİLİ SEVİYE SETİ",
-	'gameplayStyle': "OYNANIŞ STİLİ",
-	'favourInfo': "ÖNERİLEN İYİLİK NOKTALARI",
-	'stealthFavours': "GİZLİ: ",
-	'loudFavours': "GÜRÜLTÜLÜ: "
-]
+	]
+}

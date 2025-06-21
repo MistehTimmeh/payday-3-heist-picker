@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "RISPETTIVO SET DI LIVELLI",
+	'gameplayStyle': "STILE DI GIOCO",
+	'favourInfo': "BOMBONIERE CONSIGLIATE",
+	'stealthFavours': "Furtività: ",
+	'loudFavours': "Approccio Diretto: ",
 	'heists': [
 		{
 			"name": "I cattivi non dormono mai",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "Pass visitatori dall'infiltrato, Serratura magnetica disattivata, Metal detector disattivati.",
 			"recommendedLoudFavours": "Attrezzatura in ascensore, Termite extra, Borsa per armatura."
 		}
-	],
-	'levelSet': "RISPETTIVO SET DI LIVELLI",
-	'gameplayStyle': "STILE DI GIOCO",
-	'favourInfo': "BOMBONIERE CONSIGLIATE",
-	'stealthFavours': "Furtività: ",
-	'loudFavours': "Approccio Diretto: "
-]
+	]
+}

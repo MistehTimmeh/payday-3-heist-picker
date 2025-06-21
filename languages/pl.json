@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "ODPOWIEDNI ZESTAW POZIOMÓW",
+	'gameplayStyle': "STYL ROZGRYWKI",
+	'favourInfo': "POLECANE UPOMINKI",
+	'stealthFavours': "Po cichu: ",
+	'loudFavours': "Na głośno: ",
 	'heists': [
 		{
 			"name": "Nie ma zmiłuj",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "przepustka dla gości u kreta, zamek magnetyczny wyłączony, wykrywacze metalu wyłączone.",
 			"recommendedLoudFavours": "zrzut sprzętu w windzie, dodatkowe torby z termitem, Torba z pancerzem."
 		}
-	],
-	'levelSet': "ODPOWIEDNI ZESTAW POZIOMÓW",
-	'gameplayStyle': "STYL ROZGRYWKI",
-	'favourInfo': "POLECANE UPOMINKI",
-	'stealthFavours': "Po cichu: ",
-	'loudFavours': "Na głośno: "
-]
+	]
+}

@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "ENSEMBLE DE NIVEAUX RESPECTIFS",
+	'gameplayStyle': "STYLE DE JEU",
+	'favourInfo': "FAVEURS RECOMMANDÉES",
+	'stealthFavours': "Finesse: ",
+	'loudFavours': "Bourrin: ",
 	'heists': [
 		{
 			"name": "Le mal ne dort jamais",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "Badge Visiteur de l'agent Infiltré, Verrou Magnétique Désactivé, Détecteurs de Métaux Désactivés.",
 			"recommendedLoudFavours": "Dépôt d'équipement dans l'ascenseur, Sacs de Thermite Supplémentaires, Mallette à Armure."
 		}
-	],
-	'levelSet': "ENSEMBLE DE NIVEAUX RESPECTIFS",
-	'gameplayStyle': "STYLE DE JEU",
-	'favourInfo': "FAVEURS RECOMMANDÉES",
-	'stealthFavours': "Finesse: ",
-	'loudFavours': "Bourrin: "
-]
+	]
+}

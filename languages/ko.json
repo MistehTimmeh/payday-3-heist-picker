@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "각 레벨 세트",
+	'gameplayStyle': "게임플레이 스타일",
+	'favourInfo': "추천 호의",
+	'stealthFavours': "스텔스: ",
+	'loudFavours': "라우드: ",
 	'heists': [
 		{
 			"name": "악당에게 안식은 없다",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "내부 정보원의 방문객 출입증, 자기잠금장치 해제, 금속 탐지기 무력화.",
 			"recommendedLoudFavours": "엘리베이터 장비 투하, 테르밋 가방 추가, 방탄복 가방."
 		}
-	],
-	'levelSet': "각 레벨 세트",
-	'gameplayStyle': "게임플레이 스타일",
-	'favourInfo': "추천 호의",
-	'stealthFavours': "스텔스: ",
-	'loudFavours': "라우드: "
-]
+	]
+}

@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "CONJUNTO DE NIVELES RESPECTIVO",
+	'gameplayStyle': "ESTILO DE JUEGO",
+	'favourInfo': "FAVORES RECOMENDADOS",
+	'stealthFavours': "Sigilo: ",
+	'loudFavours': "Bullicioso: ",
 	'heists': [
 		{
 			"name": "No hay paz para los impíos",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "Infiltrado con pases de visitante, Cerrojo magnético desactivado, Detectores de metal desactivados.",
 			"recommendedLoudFavours": "Envío de equipo por ascensor, Bolsas de termita extra, Bolsa de armadura."
 		}
-	],
-	'levelSet': "CONJUNTO DE NIVELES RESPECTIVO",
-	'gameplayStyle': "ESTILO DE JUEGO",
-	'favourInfo': "FAVORES RECOMENDADOS",
-	'stealthFavours': "Sigilo: ",
-	'loudFavours': "Bullicioso: "
-]
+	]
+}

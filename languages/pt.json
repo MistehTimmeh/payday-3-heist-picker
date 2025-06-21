@@ -1,4 +1,9 @@
-[
+{
+	'levelSet': "RESPETIVO NÍVEL DEFINIDO",
+	'gameplayStyle': "ESTILO DE JOGO",
+	'favourInfo': "FAVORES RECOMENDADOS",
+	'stealthFavours': "Furtividade: ",
+	'loudFavours': "Ruidoso: ",
 	'heists': [
 		{
 			"name": "Os Maus Nunca Descansam",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "Passe de visitante com o infiltrado, Fechadura magnética desativada, Detectores de metal desativados.",
 			"recommendedLoudFavours": "Entrega de equipamento no elevador, Bolsas de termita extras, Bolsa de Armadura."
 		}
-	],
-	'levelSet': "RESPETIVO NÍVEL DEFINIDO",
-	'gameplayStyle': "ESTILO DE JOGO",
-	'favourInfo': "FAVORES RECOMENDADOS",
-	'stealthFavours': "Furtividade: ",
-	'loudFavours': "Ruidoso: "
-]
+	]
+}
