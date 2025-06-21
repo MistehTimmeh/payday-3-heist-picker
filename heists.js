@@ -1,15 +1,22 @@
 let availableLanguages = ['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt', 'ru', 'tr', 'zh']
 let lang = navigator.language.substring(0,2);
 let oldNumber = -1;
-let heists = [
-	{
-		"name": "Pick a new heist",
-		"levelSet": "",
-		"gameplayStyle": "",
-		"recommendedStealthFavours": "",
-		"recommendedLoudFavours": ""
-	}
-];
+let heists = {
+	"levelSet": "RESPECTIVE LEVEL SET",
+	"gameplayStyle": "GAMEPLAY STYLE",
+	"favourInfo": "RECOMMENDED FAVOURS",
+	"stealthFavours": "Stealth: ",
+	"loudFavours": "Loud: ",
+	"heists": [
+		{
+			"name": "Pick a new heist",
+			"levelSet": "",
+			"gameplayStyle": "",
+			"recommendedStealthFavours": "",
+			"recommendedLoudFavours": ""
+		}
+	]
+};
 
 async function getJSON(langJSON) {
     fetch("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/" + langJSON + ".json")
