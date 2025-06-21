@@ -33,7 +33,8 @@ async function getJSON(langJSON) {
 }
 
 function regen(heistNumber) {
-	let heistInfo = heists['heists'][heistNumber];
+	let heistInfo = heists;
+	let selectedHeist = heistInfo['heists'][heistNumber];
 	let parent = document.getElementById('fade-box');
 	
 	let randomBox = document.createElement('div');
@@ -78,11 +79,11 @@ function regen(heistNumber) {
 	let loudFavoursP = document.createElement('p');
 	loudFavoursP.className = 'fade-in-anim';
 	
-	heistNameP.textContent = heistInfo['name'];
-	levelSetValueP.textContent = heistInfo['levelSet'];
-	gameplayStyleValueP.textContent = heistInfo['gameplayStyle'];
-	stealthFavoursP.textContent = heistInfo['stealthFavours'] + heistInfo['recommendedStealthFavours'];
-	loudFavoursP.textContent = heistInfo['loudFavours'] + heistInfo['recommendedLoudFavours'];
+	heistNameP.textContent = selectedHeist['name'];
+	levelSetValueP.textContent = selectedHeist['levelSet'];
+	gameplayStyleValueP.textContent = selectedHeist['gameplayStyle'];
+	stealthFavoursP.textContent = heistInfo['stealthFavours'] + selectedHeist['recommendedStealthFavours'];
+	loudFavoursP.textContent = heistInfo['loudFavours'] + selectedHeist['recommendedLoudFavours'];
 	
 	parent.innerHTML = '';
 	
