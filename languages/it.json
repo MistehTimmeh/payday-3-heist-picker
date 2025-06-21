@@ -30,11 +30,11 @@
 			"name": "Assalto alla Culla",
 			"levelSet": "Colpi core",
 			"gameplayStyle": "Furtività o Approccio Diretto",
-			"recommendedStealthFavours": "Codice d"accesso al caveau, Scheda magnetica aggiuntiva.",
+			"recommendedStealthFavours": "Codice d\"accesso al caveau, Scheda magnetica aggiuntiva.",
 			"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Wallet."
 		},
 		{
-			"name": "Impara l"arte e... prendila",
+			"name": "Impara l\"arte e... prendila",
 			"levelSet": "Colpi core",
 			"gameplayStyle": "Furtività o Approccio Diretto",
 			"recommendedStealthFavours": "Punto sicuro in un cassonetto, Borsone teleferica, Codice QR aggiuntivo.",
@@ -44,7 +44,7 @@
 			"name": "Gold & Sharke",
 			"levelSet": "Colpi core",
 			"gameplayStyle": "Furtività o Approccio Diretto",
-			"recommendedStealthFavours": "Accesso all"ascensore, Festa al bar, Porta per le casse.",
+			"recommendedStealthFavours": "Accesso all\"ascensore, Festa al bar, Porta per le casse.",
 			"recommendedLoudFavours": "Borsa per armatura, Parti del trapano termico, Borsone teleferica."
 		},
 		{
@@ -87,7 +87,7 @@
 			"levelSet": "La mela marcia",
 			"gameplayStyle": "Furtività o Approccio Diretto",
 			"recommendedStealthFavours": "Borsone teleferica, Segnale di disturbo per droni, Accesso con codice QR, Glitch nei laser di sicurezza.",
-			"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Fuga con l"elicottero più rapida."
+			"recommendedLoudFavours": "Borsa per armatura, Borsone teleferica, Fuga con l\"elicottero più rapida."
 		},
 		{
 			"name": "Riappropriazione indebita",
@@ -107,14 +107,14 @@
 			"name": "Paura e avidità",
 			"levelSet": "La mela marcia",
 			"gameplayStyle": "Furtività o Approccio Diretto",
-			"recommendedStealthFavours": "Inizio all"interno della Borsa, Posizione dei broker modificata.",
+			"recommendedStealthFavours": "Inizio all\"interno della Borsa, Posizione dei broker modificata.",
 			"recommendedLoudFavours": "Comandi delle saracinesche, Borsa per armatura."
 		},
 		{
 			"name": "Prima banca mondiale",
 			"levelSet": "Lavori secondari",
 			"gameplayStyle": "Furtività o Approccio Diretto",
-			"recommendedStealthFavours": "Pass visitatori dall"infiltrato, Serratura magnetica disattivata, Metal detector disattivati.",
+			"recommendedStealthFavours": "Pass visitatori dall\"infiltrato, Serratura magnetica disattivata, Metal detector disattivati.",
 			"recommendedLoudFavours": "Attrezzatura in ascensore, Termite extra, Borsa per armatura."
 		}
 	]

@@ -9,7 +9,7 @@
 			"name": "Le mal ne dort jamais",
 			"levelSet": "Casses principaux",
 			"gameplayStyle": "Finesse ou Bourrin",
-			"recommendedStealthFavours": "Sécurisation Supplémentaire, Carte d"accès Dissimulée.",
+			"recommendedStealthFavours": "Sécurisation Supplémentaire, Carte d\"accès Dissimulée.",
 			"recommendedLoudFavours": "Mallette à Armure, Thermite Supplémentaire, le Fourgon ne part pas."
 		},
 		{
@@ -30,7 +30,7 @@
 			"name": "Enflammer la piste",
 			"levelSet": "Casses principaux",
 			"gameplayStyle": "Finesse ou Bourrin",
-			"recommendedStealthFavours": "Code de la Chambre Forte, Carte d"accès Supplémentaire.",
+			"recommendedStealthFavours": "Code de la Chambre Forte, Carte d\"accès Supplémentaire.",
 			"recommendedLoudFavours": "Mallette à Armure, Sac de Tyrolienne, Crypto-Portefeuille."
 		},
 		{
@@ -44,7 +44,7 @@
 			"name": "Gold & Sharke",
 			"levelSet": "Casses principaux",
 			"gameplayStyle": "Finesse ou Bourrin",
-			"recommendedStealthFavours": "Accès par l"ascenseur, Pot Entre Collègues, Porte des Guichets.",
+			"recommendedStealthFavours": "Accès par l\"ascenseur, Pot Entre Collègues, Porte des Guichets.",
 			"recommendedLoudFavours": "Mallette à Armure, Pièces de Lance Thermique, Sac de Tyrolienne."
 		},
 		{
@@ -86,14 +86,14 @@
 			"name": "Erreur syntaxe",
 			"levelSet": "Pomme pourrie",
 			"gameplayStyle": "Finesse ou Bourrin",
-			"recommendedStealthFavours": "Sac de Tyrolienne, Drones Perturbés, Code QR d"accès, Bug des Lasers de Sécurité.",
-			"recommendedLoudFavours": "Mallette à Armure, Sac de Tyrolienne, Hélicoptère d"extraction Plus Rapide."
+			"recommendedStealthFavours": "Sac de Tyrolienne, Drones Perturbés, Code QR d\"accès, Bug des Lasers de Sécurité.",
+			"recommendedLoudFavours": "Mallette à Armure, Sac de Tyrolienne, Hélicoptère d\"extraction Plus Rapide."
 		},
 		{
 			"name": "Les petits hommes bleus",
 			"levelSet": "Pomme pourrie",
 			"gameplayStyle": "Finesse ou Bourrin",
-			"recommendedStealthFavours": "Faux Appels d"urgence.",
+			"recommendedStealthFavours": "Faux Appels d\"urgence.",
 			"recommendedLoudFavours": "Mécano Soudoyé, Mallette à Armure."
 		},
 		{
@@ -114,8 +114,8 @@
 			"name": "Première Banque Mondiale",
 			"levelSet": "Casses secondaires",
 			"gameplayStyle": "Finesse ou Bourrin",
-			"recommendedStealthFavours": "Badge Visiteur de l"agent Infiltré, Verrou Magnétique Désactivé, Détecteurs de Métaux Désactivés.",
-			"recommendedLoudFavours": "Dépôt d"équipement dans l"ascenseur, Sacs de Thermite Supplémentaires, Mallette à Armure."
+			"recommendedStealthFavours": "Badge Visiteur de l\"agent Infiltré, Verrou Magnétique Désactivé, Détecteurs de Métaux Désactivés.",
+			"recommendedLoudFavours": "Dépôt d\"équipement dans l\"ascenseur, Sacs de Thermite Supplémentaires, Mallette à Armure."
 		}
 	]
 }

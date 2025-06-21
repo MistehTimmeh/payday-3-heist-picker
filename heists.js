@@ -2,9 +2,9 @@ let availableLanguages = ['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt', 
 let lang = navigator.language.substring(0,2);
 let oldNumber = -1;
 let heists = {
-	"levelSet": "RESPECTIVE LEVEL SET",
-	"gameplayStyle": "GAMEPLAY STYLE",
-	"favourInfo": "RECOMMENDED FAVOURS",
+	"levelSet": "",
+	"gameplayStyle": "",
+	"favourInfo": "",
 	"stealthFavours": "",
 	"loudFavours": "",
 	"heists": [
