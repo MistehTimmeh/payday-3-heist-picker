@@ -78,11 +78,11 @@ function regen(heistNumber) {
 	let loudFavoursP = document.createElement('p');
 	loudFavoursP.className = 'fade-in-anim';
 	
-	heistNameP.textContent = heistInfo['heists']['name'];
-	levelSetValueP.textContent = heistInfo['heists']['levelSet'];
-	gameplayStyleValueP.textContent = heistInfo['heists']['gameplayStyle'];
-	stealthFavoursP.textContent = heistInfo['stealthFavours'] + heistInfo['heists']['recommendedStealthFavours'];
-	loudFavoursP.textContent = heistInfo['loudFavours'] + heistInfo['heists']['recommendedLoudFavours'];
+	heistNameP.textContent = heistInfo['name'];
+	levelSetValueP.textContent = heistInfo['levelSet'];
+	gameplayStyleValueP.textContent = heistInfo['gameplayStyle'];
+	stealthFavoursP.textContent = heistInfo['stealthFavours'] + heistInfo['recommendedStealthFavours'];
+	loudFavoursP.textContent = heistInfo['loudFavours'] + heistInfo['recommendedLoudFavours'];
 	
 	parent.innerHTML = '';
 	
