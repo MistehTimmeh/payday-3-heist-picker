@@ -1,5 +1,10 @@
-[
-	'heists': [
+{
+	"levelSet": "RESPECTIVE LEVEL SET",
+	"gameplayStyle": "GAMEPLAY STYLE",
+	"favourInfo": "RECOMMENDED FAVOURS",
+	"stealthFavours": "Stealth: ",
+	"loudFavours": "Loud: ",
+	"heists": [
 		{
 			"name": "No Rest for the Wicked",
 			"levelSet": "Core Heists",
@@ -112,10 +117,5 @@
 			"recommendedStealthFavours": "Visitor pass at Inside man, Magnetic lock disabled, Metal detectors disabled.",
 			"recommendedLoudFavours": "Elevator equipment drop, Extra thermite bags, Armor Bag."
 		}
-	],
-	'levelSet': "RESPECTIVE LEVEL SET",
-	'gameplayStyle': "GAMEPLAY STYLE",
-	'favourInfo': "RECOMMENDED FAVOURS",
-	'stealthFavours': "Stealth: ",
-	'loudFavours': "Loud: "
-]
+	]
+}
