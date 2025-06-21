@@ -11,13 +11,6 @@ let heists = [
 	}
 ];
 
-if(availableLanguages.includes(lang)) {
-	getJSON(lang);
-}
-else {
-	getJSON('en');
-}
-
 async function getJSON(langJSON) {
     fetch("https://mistehtimmeh.github.io/payday-3-heist-picker/languages/" + langJSON + ".json")
 	.then(response => {
@@ -114,7 +107,13 @@ function generateRandomHeist() {
 		heistNumber = Math.floor(Math.random() * (heists.length - 1));
 	}
 	
-	// try loading language here to allow for translating common elements
+	
+	if(availableLanguages.includes(lang)) {
+		getJSON(lang);
+	}
+	else {
+		getJSON('en');
+	}
 	
 	regen(heistNumber);
 }
