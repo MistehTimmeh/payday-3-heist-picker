@@ -108,10 +108,10 @@ function regen(heistNumber) {
 }
 
 function generateRandomHeist() {
-	let heistNumber = Math.floor(Math.random() * (heists.length - 1));
+	let heistNumber = Math.floor(Math.random() * (heists['heists'].length - 1));
 	
 	while(oldNumber == heistNumber) {
-		heistNumber = Math.floor(Math.random() * (heists.length - 1));
+		heistNumber = Math.floor(Math.random() * (heists['heists'].length - 1));
 	}
 	
 	if(availableLanguages.includes(lang)) {
