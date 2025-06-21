@@ -1,10 +1,10 @@
 {
-	'levelSet': "CONJUNTO DE NIVELES RESPECTIVO",
-	'gameplayStyle': "ESTILO DE JUEGO",
-	'favourInfo': "FAVORES RECOMENDADOS",
-	'stealthFavours': "Sigilo: ",
-	'loudFavours': "Bullicioso: ",
-	'heists': [
+	"levelSet": "CONJUNTO DE NIVELES RESPECTIVO",
+	"gameplayStyle": "ESTILO DE JUEGO",
+	"favourInfo": "FAVORES RECOMENDADOS",
+	"stealthFavours": "Sigilo: ",
+	"loudFavours": "Bullicioso: ",
+	"heists": [
 		{
 			"name": "No hay paz para los impíos",
 			"levelSet": "Trabajos principales",

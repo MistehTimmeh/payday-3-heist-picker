@@ -1,10 +1,10 @@
 {
-	'levelSet': "İLGİLİ SEVİYE SETİ",
-	'gameplayStyle': "OYNANIŞ STİLİ",
-	'favourInfo': "ÖNERİLEN İYİLİK NOKTALARI",
-	'stealthFavours': "GİZLİ: ",
-	'loudFavours': "GÜRÜLTÜLÜ: ",
-	'heists': [
+	"levelSet": "İLGİLİ SEVİYE SETİ",
+	"gameplayStyle": "OYNANIŞ STİLİ",
+	"favourInfo": "ÖNERİLEN İYİLİK NOKTALARI",
+	"stealthFavours": "GİZLİ: ",
+	"loudFavours": "GÜRÜLTÜLÜ: ",
+	"heists": [
 		{
 			"name": "Şeytan Azapta Gerek",
 			"levelSet": "Çekirdek Soygunlar",
@@ -107,7 +107,7 @@
 			"name": "Korku ve Açgözlülük",
 			"levelSet": "Çürük Elma",
 			"gameplayStyle": "GİZLİ veya GÜRÜLTÜLÜ",
-			"recommendedStealthFavours": "Borsa'nın İçinde Başlama, Yeri Değiştirilmiş Borsacılar.",
+			"recommendedStealthFavours": "Borsa"nın İçinde Başlama, Yeri Değiştirilmiş Borsacılar.",
 			"recommendedLoudFavours": "Kepenk Kontrolü, Zırh Çantası."
 		},
 		{

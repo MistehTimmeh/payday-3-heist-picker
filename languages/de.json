@@ -1,10 +1,10 @@
 {
-	'levelSet': "JEWEILS EINGESTELLTER PEGEL",
-	'gameplayStyle': "SPIELSTIL",
-	'favourInfo': "EMPFOHLENE GASTGESCHENKE",
-	'stealthFavours': "Heimlichkeit: ",
-	'loudFavours': "Laut: ",
-	'heists': [
+	"levelSet": "JEWEILS EINGESTELLTER PEGEL",
+	"gameplayStyle": "SPIELSTIL",
+	"favourInfo": "EMPFOHLENE GASTGESCHENKE",
+	"stealthFavours": "Heimlichkeit: ",
+	"loudFavours": "Laut: ",
+	"heists": [
 		{
 			"name": "Ohne Fleiß kein Preis",
 			"levelSet": "Hauptüberfälle",
@@ -20,7 +20,7 @@
 			"recommendedLoudFavours": "Panzerungstasche, Offene Schließfächer, Zusätzlicher Sicherungspunkt."
 		},
 		{
-			"name": "Schmutziger Schmu'ck",
+			"name": "Schmutziger Schmu"ck",
 			"levelSet": "Hauptüberfälle",
 			"gameplayStyle": "Heimlichkeit oder Laut",
 			"recommendedStealthFavours": "Mitarbeitereingang, Abgelenkte Managerin.",

@@ -1,10 +1,10 @@
 {
-	'levelSet': "각 레벨 세트",
-	'gameplayStyle': "게임플레이 스타일",
-	'favourInfo': "추천 호의",
-	'stealthFavours': "스텔스: ",
-	'loudFavours': "라우드: ",
-	'heists': [
+	"levelSet": "각 레벨 세트",
+	"gameplayStyle": "게임플레이 스타일",
+	"favourInfo": "추천 호의",
+	"stealthFavours": "스텔스: ",
+	"loudFavours": "라우드: ",
+	"heists": [
 		{
 			"name": "악당에게 안식은 없다",
 			"levelSet": "주요 하이스트",

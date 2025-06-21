@@ -1,10 +1,10 @@
 {
-	'levelSet': "それぞれのレベルセット",
-	'gameplayStyle': "ゲームプレイスタイル",
-	'favourInfo': "推奨される好意",
-	'stealthFavours': "ステルス: ",
-	'loudFavours': "ラウド: ",
-	'heists': [
+	"levelSet": "それぞれのレベルセット",
+	"gameplayStyle": "ゲームプレイスタイル",
+	"favourInfo": "推奨される好意",
+	"stealthFavours": "ステルス: ",
+	"loudFavours": "ラウド: ",
+	"heists": [
 		{
 			"name": "悪人暇なし",
 			"levelSet": "主要強盗作戦",

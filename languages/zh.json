@@ -1,10 +1,10 @@
 {
-	'levelSet': "相应的级别设置",
-	'gameplayStyle': "游戏风格",
-	'favourInfo': "推荐优惠",
-	'stealthFavours': "潜行: ",
-	'loudFavours': "强袭奖励: ",
-	'heists': [
+	"levelSet": "相应的级别设置",
+	"gameplayStyle": "游戏风格",
+	"favourInfo": "推荐优惠",
+	"stealthFavours": "潜行: ",
+	"loudFavours": "强袭奖励: ",
+	"heists": [
 		{
 			"name": "恶者不息",
 			"levelSet": "核心劫案",

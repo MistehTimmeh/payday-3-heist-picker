@@ -1,10 +1,10 @@
 {
-	'levelSet': "RESPETIVO NÍVEL DEFINIDO",
-	'gameplayStyle': "ESTILO DE JOGO",
-	'favourInfo': "FAVORES RECOMENDADOS",
-	'stealthFavours': "Furtividade: ",
-	'loudFavours': "Ruidoso: ",
-	'heists': [
+	"levelSet": "RESPETIVO NÍVEL DEFINIDO",
+	"gameplayStyle": "ESTILO DE JOGO",
+	"favourInfo": "FAVORES RECOMENDADOS",
+	"stealthFavours": "Furtividade: ",
+	"loudFavours": "Ruidoso: ",
+	"heists": [
 		{
 			"name": "Os Maus Nunca Descansam",
 			"levelSet": "Golpes Principais",

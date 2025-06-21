@@ -1,10 +1,10 @@
 {
-	'levelSet': "СООТВЕТСТВУЮЩИЙ НАБОР УРОВНЕЙ",
-	'gameplayStyle': "СТИЛЬ ГЕЙМПЛЕЯ",
-	'favourInfo': "РЕКОМЕНДУЕМЫЕ УСЛУГИ",
-	'stealthFavours': "СКРЫТНО: ",
-	'loudFavours': "ШУМНО: ",
-	'heists': [
+	"levelSet": "СООТВЕТСТВУЮЩИЙ НАБОР УРОВНЕЙ",
+	"gameplayStyle": "СТИЛЬ ГЕЙМПЛЕЯ",
+	"favourInfo": "РЕКОМЕНДУЕМЫЕ УСЛУГИ",
+	"stealthFavours": "СКРЫТНО: ",
+	"loudFavours": "ШУМНО: ",
+	"heists": [
 		{
 			"name": "Зло не дремлет",
 			"levelSet": "Основные ограбления",

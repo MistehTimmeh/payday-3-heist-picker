@@ -1,10 +1,10 @@
 {
-	'levelSet': "ODPOWIEDNI ZESTAW POZIOMÓW",
-	'gameplayStyle': "STYL ROZGRYWKI",
-	'favourInfo': "POLECANE UPOMINKI",
-	'stealthFavours': "Po cichu: ",
-	'loudFavours': "Na głośno: ",
-	'heists': [
+	"levelSet": "ODPOWIEDNI ZESTAW POZIOMÓW",
+	"gameplayStyle": "STYL ROZGRYWKI",
+	"favourInfo": "POLECANE UPOMINKI",
+	"stealthFavours": "Po cichu: ",
+	"loudFavours": "Na głośno: ",
+	"heists": [
 		{
 			"name": "Nie ma zmiłuj",
 			"levelSet": "Główne napady",
