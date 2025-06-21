@@ -26,7 +26,7 @@ async function getJSON(langJSON) {
 }
 
 function regen(heistNumber) {
-	let heistInfo = heists[heistNumber];
+	let heistInfo = heists['heists'][heistNumber];
 	let parent = document.getElementById('fade-box');
 	
 	let randomBox = document.createElement('div');
@@ -106,7 +106,6 @@ function generateRandomHeist() {
 	while(oldNumber == heistNumber) {
 		heistNumber = Math.floor(Math.random() * (heists.length - 1));
 	}
-	
 	
 	if(availableLanguages.includes(lang)) {
 		getJSON(lang);
