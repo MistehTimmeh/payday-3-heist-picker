@@ -122,6 +122,9 @@ function generateRandomHeist() {
 		getJSON('en');
 	}
 	
+	let buttonText = document.getElementById('new-heist-button');
+	buttonText.textContent = heistInfo['buttonText'];
+	
 	regen(heistNumber);
 }
 
